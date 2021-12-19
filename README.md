@@ -1,56 +1,77 @@
 # Watching "Unlocking The Bible by David Pawson"
 
 Watching the "Unlocking The Bible By David Pawson" (觀賞 "通往真理的金鑰, 大衛 鮑森 著")
----
-# 大衛鮑森舊約縱覽： 通往真理的金鑰
-| 視頻標題 | 視頻長度 | 關賞日期及時間 |  |
-|:------:|:---------:|:-------------:|:--:|
-| [馬太福音(一)](https://www.youtube.com/watch?v=mbNZAzDSWbo) | 36:47 | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| [ ]() |  | | |
-| | | | |
-| | | | |
-| | | | |
+
+"「聖經是智慧的開端」是神的話語也是神的教導，神是一卷一卷地給我們聖經，所以我們也應該一卷一卷地研讀。舊約聖經涵蓋了兩千年以上的時間，有許多不同的作者，和許多不同性質的書卷。我們務必了解其中之連結與背景，也了解神祂在什麼地方和什麼時候所教導的話。由大衛包森與我們一同研討舊約縱覽。" - [大衛鮑森國際中文頻道](https://www.youtube.com/user/goodtvdavidpawson/playlists)。
 
 ---
-# 新約縱覽： 通往真理的金鑰
+## 大衛鮑森舊約縱覽： 通往真理的金鑰
+| 視頻標題 | 視頻長度 | 關賞日期及時間 |  |
+|:------:|:---------:|:-------------:|:--:|
+| [舊約概論](https://www.youtube.com/watch?v=wi8b9jOYmK0) | 40:08 | | |
+| [創世記(一) 聖經的基礎](https://www.youtube.com/watch?v=fizg-bxIjuY) | 40:03 | | |
+| [創世記(二) 造物主和受造物](https://www.youtube.com/watch?v=jHKK66iKTng) | 38:28 | | |
+| [創世記(三) 生物與進化](https://www.youtube.com/watch?v=Cn9Bdd8NBJU) | 44:08 | | |
+| [創世記(四) 從伊甸園到巴別塔](https://www.youtube.com/watch?v=Qrb-IILBckQ) | 40:23 | | |
+| [創世記(五) 亞伯拉罕、以撒和雅各](https://www.youtube.com/watch?v=h8Vc62vDw7o) | 40:03 | | |
+| [創世記(六) 約瑟和耶穌](https://www.youtube.com/watch?v=1uBub7OvYaY) | 36:48 | | |
+| [出埃及記(一)](https://www.youtube.com/watch?v=jlHOgXhkEMo) | 40:13 | | |
+| [出埃及記(二)](https://www.youtube.com/watch?v=1N5OFuFiULc) | 40:23 | | |
+| [利未記(一)](https://www.youtube.com/watch?v=-BaVKUjYPdI) | 39:43 | | |
+| [利未記(二)](https://www.youtube.com/watch?v=MYTuWVe4RBI) | 35:33 | | |
+| [民數記(一)](https://www.youtube.com/watch?v=ANWKSkvFhLE) | 36:58 | | |
+| [民數記(二)](https://www.youtube.com/watch?v=7og8ry-LfU0) | 41:33 | | |
+| [申命記(一)](https://www.youtube.com/watch?v=WZw5MKJS_5Y) | 38:03 | | |
+| [申命記(二)](https://www.youtube.com/watch?v=_3f7Qhqdbs8) | 39:03 | | |
+| [約書亞記(一)](https://www.youtube.com/watch?v=k3m_Nv_-rkU) | 38:53 | | |
+| [約書亞記(二)](https://www.youtube.com/watch?v=6VwGHuvN8yA) | 41:08 | | |
+| [士師記和路得記(一)](https://www.youtube.com/watch?v=Nv9rAoOdRDg) | 44:13 | | |
+| [士師記和路得記(二)](https://www.youtube.com/watch?v=eVjbrgGBzCI) | 37:13 | | |
+| [撒母耳記上下(一)](https://www.youtube.com/watch?v=QO6IzSoowFQ) | 40:18 | | |
+| [撒母耳記上下(二)](https://www.youtube.com/watch?v=Kws-E0Pf-m0) | 37:38 | | |
+| [列王紀上下(一)](https://www.youtube.com/watch?v=wixHQA0lfkU) | 37:28 | | |
+| [列王紀上下(二)](https://www.youtube.com/watch?v=sfA_bH8FO8Q) | 39:13 | | |
+| [歷代志上下](https://www.youtube.com/watch?v=tDiYsWoBj2M) | 41:28 | | |
+| [希伯來詩](https://www.youtube.com/watch?v=OUMGMY8121s) | 34:48 | | |
+| [詩篇(一)](https://www.youtube.com/watch?v=EoATnlIyBIE) | 40:23 | | |
+| [詩篇(二)](https://www.youtube.com/watch?v=VrX7zj8HzQk) | 42:23 | | |
+| [約伯記(一)](https://www.youtube.com/watch?v=UGaSYXN1sNQ) | 41:23 | | |
+| [約伯記(二)](https://www.youtube.com/watch?v=KiLBSOPrInA) | 41:38 | | |
+| [箴言(一)](https://www.youtube.com/watch?v=p4Zn9wZza4k) | 37:33 | | |
+| [箴言(二)](https://www.youtube.com/watch?v=6PbDZWcUBbY) | 32:53 | | |
+| [雅歌](https://www.youtube.com/watch?v=S_uSerwYiFY) | 38:33 | | |
+| [傳道書](https://www.youtube.com/watch?v=E4S-EcD1BgA) | 39:23 | | |
+| [俄巴底亞書和約珥書(一)](https://www.youtube.com/watch?v=8t0EgxboNic) | 39:13 | | |
+| [俄巴底亞書和約珥書(二)](https://www.youtube.com/watch?v=OqAHDU4j9H8) | 42:38 | | |
+| [約拿書](https://www.youtube.com/watch?v=VthQ-vloIDs) | 39:38 | | |
+| [那鴻書](https://www.youtube.com/watch?v=5mw-ri9r0JY) | 35:38 | | |
+| [阿摩司書](https://www.youtube.com/watch?v=ykN2_IMHyXs) | 39:43 | | |
+| [何西阿書](https://www.youtube.com/watch?v=VSreYRKicjY) | 34:28 | | |
+| [彌迦書](https://www.youtube.com/watch?v=olDmFPcHs6I) | 37:58 | | |
+| [以賽亞書(一)](https://www.youtube.com/watch?v=1OerxbbwWNU) | 41:33 | | |
+| [以賽亞書(二)](https://www.youtube.com/watch?v=rNX6qcgZGDo) | 35:18 | | |
+| [西番雅書](https://www.youtube.com/watch?v=ifDRcEKNhTk) | 40:23 | | |
+| [哈巴谷書](https://www.youtube.com/watch?v=lAKk8ieKmho) | 35:33 | | |
+| [耶利米書(一)](https://www.youtube.com/watch?v=GLvHAUqhKfI) | 38:18 | | |
+| [耶利米書(二)](https://www.youtube.com/watch?v=qBr3oFKM1CA) | 38:03 | | |
+| [耶利米哀歌](https://www.youtube.com/watch?v=1M0viFjTNhs) | 38:28 | | |
+| [以西結書(一)](https://www.youtube.com/watch?v=0495AQXT6pc) | 35:28 | | |
+| [以西結書(二)](https://www.youtube.com/watch?v=LNcuunNZoyQ) | 40:08 | | |
+| [以西結書(三)](https://www.youtube.com/watch?v=Cv675u4y8Wc) | 39:28 | | |
+| [但以理書(一)](https://www.youtube.com/watch?v=cabJrRVBt7E) | 36:33 | | |
+| [但以理書(二)](https://www.youtube.com/watch?v=V2i-wttUcXE) | 39:53 | | |
+| [以斯帖記](https://www.youtube.com/watch?v=YpBGW86YsYA) | 38:33 | | |
+| [以斯拉記和尼希米記(一)](https://www.youtube.com/watch?v=9544sNFMFvc) | 33:53 | | |
+| [以斯拉記和尼希米記(二)](https://www.youtube.com/watch?v=u3q5lSAwsSI) | 31:27 | | |
+| [哈該書](https://www.youtube.com/watch?v=Elaivs_ArAo) | 33:18 | | |
+| [撒迦利亞書(一)](https://www.youtube.com/watch?v=aThMU_IBQbw) | 44:13 | | |
+| [撒迦利亞書(二)](https://www.youtube.com/watch?v=i8ll33d2Tmg) | 44:28 | | |
+| [瑪拉基書(一)](https://www.youtube.com/watch?v=qrwBNpCajeM) | 29:17 | | |
+| [瑪拉基書(二)](https://www.youtube.com/watch?v=VwlaqEewS2Q) | 28:22 | | |
+|-| | | |
+
+---
+## 新約縱覽： 通往真理的金鑰
 
 | 視頻標題 | 視頻長度 | 關賞日期及時間 |  |
 |:------:|:---------:|:-------------:|:--:|
@@ -93,5 +114,16 @@ Watching the "Unlocking The Bible By David Pawson" (觀賞 "通往真理的金�
 | [啟示錄(五) 最後的千禧年](https://www.youtube.com/watch?v=MVwPr4EOELs) | 42:58 | | |
 | [啟示錄(六) 從天而降的新婦](https://www.youtube.com/watch?v=v0BpxF__-mk) | 37:58 | | |
 | - | | | |
+
+---
+## References
+- [Unlocking the Old Testament by David Pawson](https://www.youtube.com/playlist?list=PLfk5IZQHKovKhMVo9ekMLvZk8vFV9RJvC)
+- [Unlocking the New Testament by David Pawson](https://www.youtube.com/playlist?list=PLfk5IZQHKovK_7RzISco4nVgMvt0bqFUZ)
+- [大衛鮑森講座~舊約縱覽](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08O-lWINo2CowDGHw3jBA6x)
+- [大衛鮑森講座~新約縱覽](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08819jIw0Vo3q_ob7-dumbW)
+- []()
+- []()
+- []()
+- []()
 
 ---
