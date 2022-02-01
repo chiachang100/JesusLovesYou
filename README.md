@@ -8,6 +8,17 @@
 “當我們要開始一卷書時，有必要先瀏覽介紹該卷書的引言， 其中應涵蓋最基本的問題：這卷書是什麼類型？何時寫的？誰寫的？為誰而寫的？最重要的，為什麼要寫這卷書？這些問題的答案就是解開其信息的 **「鑰匙」**  - "舊約縱覽：通往真理的金鑰" (Unlocking The Bible: Old Testament), 大衛鮑森著。
 
 ---
+## References
+- 視頻
+  - 中文版： [大衛鮑森講座~舊約縱覽](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08O-lWINo2CowDGHw3jBA6x)
+  - 中文版： [大衛鮑森講座~新約縱覽](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08819jIw0Vo3q_ob7-dumbW)
+  - 英文版： [Unlocking the Old Testament by David Pawson](https://www.youtube.com/playlist?list=PLfk5IZQHKovKhMVo9ekMLvZk8vFV9RJvC)
+  - 英文版： [Unlocking the New Testament by David Pawson](https://www.youtube.com/playlist?list=PLfk5IZQHKovK_7RzISco4nVgMvt0bqFUZ)
+- 網站及書籍
+  - [David Pawson's website](https://www.davidpawson.org/)
+  - [GOOD TV 大衛‧鮑森研經叢書－新舊約縱覽 通往真理的金鑰](https://www.davidpawson.org/wp-content/uploads/2020/05/David_Pawson_Chinese_books.pdf)
+
+---
 ## 大衛鮑森舊約縱覽： 通往真理的金鑰
 | 主題 | 影片長度(分鐘) | 觀賞日期 |  |
 |:------:|:---------:|:-------------:|:--:|
@@ -117,16 +128,5 @@
 | 37. [啟示錄(五) 最後的千禧年](https://www.youtube.com/watch?v=MVwPr4EOELs) | 42:58 | | |
 | 38. [啟示錄(六) 從天而降的新婦](https://www.youtube.com/watch?v=v0BpxF__-mk) | 37:58 | | |
 | - | | | |
-
----
-## References
-- 視頻
-  - 中文版： [大衛鮑森講座~舊約縱覽](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08O-lWINo2CowDGHw3jBA6x)
-  - 中文版： [大衛鮑森講座~新約縱覽](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08819jIw0Vo3q_ob7-dumbW)
-  - 英文版： [Unlocking the Old Testament by David Pawson](https://www.youtube.com/playlist?list=PLfk5IZQHKovKhMVo9ekMLvZk8vFV9RJvC)
-  - 英文版： [Unlocking the New Testament by David Pawson](https://www.youtube.com/playlist?list=PLfk5IZQHKovK_7RzISco4nVgMvt0bqFUZ)
-- 網站及書籍
-  - [David Pawson's website](https://www.davidpawson.org/)
-  - [GOOD TV 大衛‧鮑森研經叢書－新舊約縱覽 通往真理的金鑰](https://www.davidpawson.org/wp-content/uploads/2020/05/David_Pawson_Chinese_books.pdf)
 
 ---
