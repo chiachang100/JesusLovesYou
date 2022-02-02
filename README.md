@@ -10,10 +10,10 @@
 ---
 ## 資料來源
 - 視頻
-  - 中文版： [大衛鮑森講座~舊約縱覽](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08O-lWINo2CowDGHw3jBA6x).
-  - 中文版： [大衛鮑森講座~新約縱覽](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08819jIw0Vo3q_ob7-dumbW).
-  - 英文版： [Unlocking the Old Testament by David Pawson](https://www.youtube.com/playlist?list=PLfk5IZQHKovKhMVo9ekMLvZk8vFV9RJvC).
-  - 英文版： [Unlocking the New Testament by David Pawson](https://www.youtube.com/playlist?list=PLfk5IZQHKovK_7RzISco4nVgMvt0bqFUZ).
+  - 中文版： [大衛鮑森講座~舊約縱覽 @YouTube](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08O-lWINo2CowDGHw3jBA6x).
+  - 中文版： [大衛鮑森講座~新約縱覽 @YouTube](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08819jIw0Vo3q_ob7-dumbW).
+  - 英文版： [Unlocking the Old Testament by David Pawson @YouTube](https://www.youtube.com/playlist?list=PLfk5IZQHKovKhMVo9ekMLvZk8vFV9RJvC).
+  - 英文版： [Unlocking the New Testament by David Pawson @YouTube](https://www.youtube.com/playlist?list=PLfk5IZQHKovK_7RzISco4nVgMvt0bqFUZ).
 - 網站及書籍
   - [David Pawson's website](https://www.davidpawson.org/)
     - [Unlocking The Bible: A Unique Overview of the Whole Bible by David Pawson](https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/).
