@@ -5,18 +5,19 @@
 許多人十分渴慕認識神的話語。因此讓我們一起觀賞大衛鮑森的"舊約及新約縱覽：通往真理的金鑰" (Unlocking The Bible: Old and New Testament)。
 
 ### 提示：
-“當我們要開始一卷書時，有必要先瀏覽介紹該卷書的引言， 其中應涵蓋最基本的問題：這卷書是什麼類型？何時寫的？誰寫的？為誰而寫的？最重要的，為什麼要寫這卷書？這些問題的答案就是解開其信息的 **「鑰匙」**  - "舊約縱覽：通往真理的金鑰" (Unlocking The Bible: Old Testament), 大衛鮑森著。
+“當我們要開始一卷書時，有必要先瀏覽介紹該卷書的引言， 其中應涵蓋最基本的問題：這卷書是什麼類型？何時寫的？誰寫的？為誰而寫的？最重要的，為什麼要寫這卷書？這些問題的答案就是解開其信息的 **「鑰匙」**  - "新舊約縱覽：通往真理的金鑰", 大衛鮑森著 ([Unlocking The Bible: A Unique Overview of the Whole Bible by David Pawson](https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/))。
 
 ---
 ## References
 - 視頻
-  - 中文版： [大衛鮑森講座~舊約縱覽](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08O-lWINo2CowDGHw3jBA6x)
-  - 中文版： [大衛鮑森講座~新約縱覽](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08819jIw0Vo3q_ob7-dumbW)
-  - 英文版： [Unlocking the Old Testament by David Pawson](https://www.youtube.com/playlist?list=PLfk5IZQHKovKhMVo9ekMLvZk8vFV9RJvC)
-  - 英文版： [Unlocking the New Testament by David Pawson](https://www.youtube.com/playlist?list=PLfk5IZQHKovK_7RzISco4nVgMvt0bqFUZ)
+  - 中文版： [大衛鮑森講座~舊約縱覽](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08O-lWINo2CowDGHw3jBA6x).
+  - 中文版： [大衛鮑森講座~新約縱覽](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08819jIw0Vo3q_ob7-dumbW).
+  - 英文版： [Unlocking the Old Testament by David Pawson](https://www.youtube.com/playlist?list=PLfk5IZQHKovKhMVo9ekMLvZk8vFV9RJvC).
+  - 英文版： [Unlocking the New Testament by David Pawson](https://www.youtube.com/playlist?list=PLfk5IZQHKovK_7RzISco4nVgMvt0bqFUZ).
 - 網站及書籍
   - [David Pawson's website](https://www.davidpawson.org/)
-  - [GOOD TV 大衛‧鮑森研經叢書－新舊約縱覽 通往真理的金鑰](https://www.davidpawson.org/wp-content/uploads/2020/05/David_Pawson_Chinese_books.pdf)
+    - [Unlocking The Bible: A Unique Overview of the Whole Bible by David Pawson](https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/).
+  - [GOOD TV 大衛‧鮑森研經叢書－新舊約縱覽 通往真理的金鑰](https://www.davidpawson.org/wp-content/uploads/2020/05/David_Pawson_Chinese_books.pdf).
 
 ---
 ## 大衛鮑森舊約縱覽： 通往真理的金鑰
