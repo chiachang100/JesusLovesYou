@@ -22,7 +22,7 @@
 ## 大衛鮑森舊約縱覽： 通往真理的金鑰
 | 主題 | 影片長度(分鐘) | 觀賞日期 |  |
 |:------:|:---------:|:-------------:|:--:|
-| 1. [舊約概論](https://www.youtube.com/watch?v=wi8b9jOYmK0) | 40:08 | | |
+| 1. [舊約概論](https://www.youtube.com/watch?v=wi8b9jOYmK0) | 40:08 | 2/1/2022 | |
 | 2. [創世記(一) 聖經的基礎](https://www.youtube.com/watch?v=fizg-bxIjuY) | 40:03 | | |
 | 3. [創世記(二) 造物主和受造物](https://www.youtube.com/watch?v=jHKK66iKTng) | 38:28 | | |
 | 4. [創世記(三) 生物與進化](https://www.youtube.com/watch?v=Cn9Bdd8NBJU) | 44:08 | | |
