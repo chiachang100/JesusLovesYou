@@ -31,7 +31,7 @@
 | 4 | [創世記(三) 生物與進化](https://www.youtube.com/watch?v=Cn9Bdd8NBJU) | 44:08 | 2/3/2022 | |
 | 5 | [創世記(四) 從伊甸園到巴別塔](https://www.youtube.com/watch?v=Qrb-IILBckQ) | 40:23 | 2/3/2022 | |
 | 6 | [創世記(五) 亞伯拉罕、以撒和雅各](https://www.youtube.com/watch?v=h8Vc62vDw7o) | 40:03 | 2/4/2022 | |
-| 7 | [創世記(六) 約瑟和耶穌](https://www.youtube.com/watch?v=1uBub7OvYaY) | 36:48 | | |
+| 7 | [創世記(六) 約瑟和耶穌](https://www.youtube.com/watch?v=1uBub7OvYaY) | 36:48 | 2/4/2022 | |
 | 8 | [出埃及記(一)](https://www.youtube.com/watch?v=jlHOgXhkEMo) | 40:13 | | |
 | 9 | [出埃及記(二)](https://www.youtube.com/watch?v=1N5OFuFiULc) | 40:23 | | |
 | 10 | [利未記(一)](https://www.youtube.com/watch?v=-BaVKUjYPdI) | 39:43 | | |
