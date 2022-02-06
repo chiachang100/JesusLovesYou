@@ -26,13 +26,13 @@
 
 | 次序 | 主題(中文) | 影片長度(分鐘) | 觀賞日期(中文) | 主題(英文) | 觀賞日期(英文) |
 |:---:|:----------:|:-------------:|:-------------:|:---------:|:-------------:|
-| 1 | [舊約概論](https://www.youtube.com/watch?v=wi8b9jOYmK0) | 40:08 | 2/1/2022 | | | |
-| 2 | [創世記(一) 聖經的基礎](https://www.youtube.com/watch?v=fizg-bxIjuY) | 40:03 | 2/2/2022 | | |
-| 3 | [創世記(二) 造物主和受造物](https://www.youtube.com/watch?v=jHKK66iKTng) | 38:28 | 2/3/2022 | | |
-| 4 | [創世記(三) 生物與進化](https://www.youtube.com/watch?v=Cn9Bdd8NBJU) | 44:08 | 2/3/2022 | | |
-| 5 | [創世記(四) 從伊甸園到巴別塔](https://www.youtube.com/watch?v=Qrb-IILBckQ) | 40:23 | 2/3/2022 | | |
-| 6 | [創世記(五) 亞伯拉罕、以撒和雅各](https://www.youtube.com/watch?v=h8Vc62vDw7o) | 40:03 | 2/4/2022 | | |
-| 7 | [創世記(六) 約瑟和耶穌](https://www.youtube.com/watch?v=1uBub7OvYaY) | 36:48 | 2/4/2022 | | |
+| 1 | [舊約概論](https://www.youtube.com/watch?v=wi8b9jOYmK0) | 40:08 | 2/1/2022 | [Overview of the Old Testament](https://www.youtube.com/watch?v=3y7nN4TVX5Y) | |
+| 2 | [創世記(一) 聖經的基礎](https://www.youtube.com/watch?v=fizg-bxIjuY) | 40:03 | 2/2/2022 | [Genesis 1](https://www.youtube.com/watch?v=TdKe0NNHWmY) | |
+| 3 | [創世記(二) 造物主和受造物](https://www.youtube.com/watch?v=jHKK66iKTng) | 38:28 | 2/3/2022 | [Genesis 2](https://www.youtube.com/watch?v=3FQhzYaVk6k) | |
+| 4 | [創世記(三) 生物與進化](https://www.youtube.com/watch?v=Cn9Bdd8NBJU) | 44:08 | 2/3/2022 | [Genesis 3](https://www.youtube.com/watch?v=5DsSO1pM-fE) | |
+| 5 | [創世記(四) 從伊甸園到巴別塔](https://www.youtube.com/watch?v=Qrb-IILBckQ) | 40:23 | 2/3/2022 | [Genesis 4](https://www.youtube.com/watch?v=n2t1p7Zfm2s) | |
+| 6 | [創世記(五) 亞伯拉罕、以撒和雅各](https://www.youtube.com/watch?v=h8Vc62vDw7o) | 40:03 | 2/4/2022 | [Genesis 5](https://www.youtube.com/watch?v=K26US7y8TyQ) | |
+| 7 | [創世記(六) 約瑟和耶穌](https://www.youtube.com/watch?v=1uBub7OvYaY) | 36:48 | 2/4/2022 | [Genesis 6](https://www.youtube.com/watch?v=Xk7vBiRlzeA) | |
 | 8 | [出埃及記(一)](https://www.youtube.com/watch?v=jlHOgXhkEMo) | 40:13 | 2/5/2022 | | |
 | 9 | [出埃及記(二)](https://www.youtube.com/watch?v=1N5OFuFiULc) | 40:23 | 2/5/2022 | | |
 | 10 | [利未記(一)](https://www.youtube.com/watch?v=-BaVKUjYPdI) | 39:43 | 2/6/2022 | | |
