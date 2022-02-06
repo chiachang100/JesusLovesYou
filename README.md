@@ -33,7 +33,7 @@
 | 6 | [創世記(五) 亞伯拉罕、以撒和雅各](https://www.youtube.com/watch?v=h8Vc62vDw7o) | 40:03 | 2/4/2022 | |
 | 7 | [創世記(六) 約瑟和耶穌](https://www.youtube.com/watch?v=1uBub7OvYaY) | 36:48 | 2/4/2022 | |
 | 8 | [出埃及記(一)](https://www.youtube.com/watch?v=jlHOgXhkEMo) | 40:13 | 2/5/2022 | |
-| 9 | [出埃及記(二)](https://www.youtube.com/watch?v=1N5OFuFiULc) | 40:23 | | |
+| 9 | [出埃及記(二)](https://www.youtube.com/watch?v=1N5OFuFiULc) | 40:23 | 2/5/2022 | |
 | 10 | [利未記(一)](https://www.youtube.com/watch?v=-BaVKUjYPdI) | 39:43 | | |
 | 11 | [利未記(二)](https://www.youtube.com/watch?v=MYTuWVe4RBI) | 35:33 | | |
 | 12 | [民數記(一)](https://www.youtube.com/watch?v=ANWKSkvFhLE) | 36:58 | | |
