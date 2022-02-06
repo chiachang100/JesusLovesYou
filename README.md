@@ -1,11 +1,9 @@
 # 耶穌愛你 (Jesus Loves You)
 
->>> "「聖經是智慧的開端」是神的話語也是神的教導，神是一卷一卷地給我們聖經，所以我們也應該一卷一卷地研讀。舊約聖經涵蓋了兩千年以上的時間，有許多不同的作者，和許多不同性質的書卷。我們務必了解其中之連結與背景，也了解神祂在什麼地方和什麼時候所教導的話。由大衛包森與我們一同研討舊約縱覽。" - [GOOD TV: 大衛鮑森國際中文頻道](https://www.youtube.com/user/goodtvdavidpawson/playlists)。
-
 許多人十分渴慕認識神的話語。因此讓我們一起觀賞大衛鮑森的"舊約及新約縱覽：通往真理的金鑰" (Unlocking The Bible: Old and New Testament)。
 
 ### 提示：
-“當我們要開始一卷書時，有必要先瀏覽介紹該卷書的引言， 其中應涵蓋最基本的問題：這卷書是什麼類型？何時寫的？誰寫的？為誰而寫的？最重要的，為什麼要寫這卷書？這些問題的答案就是解開其信息的 **「鑰匙」**  - "新舊約縱覽：通往真理的金鑰", 大衛鮑森著 ([Unlocking The Bible: A Unique Overview of the Whole Bible by David Pawson](https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/))。
+>>> "當我們要開始一卷書時，有必要先瀏覽介紹該卷書的引言， 其中應涵蓋最基本的問題：這卷書是什麼類型？何時寫的？誰寫的？為誰而寫的？最重要的，為什麼要寫這卷書？這些問題的答案就是解開其信息的 **「鑰匙」**  - "新舊約縱覽：通往真理的金鑰", 大衛鮑森著 ([Unlocking The Bible: A Unique Overview of the Whole Bible by David Pawson](https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/))。
 
 ---
 ## 資料來源
