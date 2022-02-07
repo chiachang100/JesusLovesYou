@@ -14,12 +14,23 @@
   - (英文版) [Unlocking the New Testament by David Pawson @YouTube](https://www.youtube.com/playlist?list=PLfk5IZQHKovK_7RzISco4nVgMvt0bqFUZ).
 - 網站
   - [David Pawson's website](https://www.davidpawson.org/)
-- 新舊約縱覽書籍
-  - [Unlocking The Bible: A Unique Overview of the Whole Bible by David Pawson](https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/).
-  - [大衛鮑森舊約縱覽](https://www.amazon.com/%E8%88%8A%E7%B4%84%E7%B8%B1%E8%A6%BD-%E5%A4%A7%E8%A1%9B%EF%BC%8E%E9%AE%91%E6%A3%AE%E7%89%A7%E5%B8%AB/dp/9868275083/).
-  - [大衛鮑森新約縱覽](https://www.amazon.com/Unlocking-Bible-New-Testament-%E6%96%B0%E7%B4%84%E7%B8%B1%E8%A6%BD/dp/9868275032/).
+- 書籍
+  - (英文版) [Unlocking The Bible: A Unique Overview of the Whole Bible by David Pawson](https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/).
+  - (中文版) [大衛鮑森舊約縱覽](https://www.amazon.com/%E8%88%8A%E7%B4%84%E7%B8%B1%E8%A6%BD-%E5%A4%A7%E8%A1%9B%EF%BC%8E%E9%AE%91%E6%A3%AE%E7%89%A7%E5%B8%AB/dp/9868275083/).
+  - (中文版) [大衛鮑森新約縱覽](https://www.amazon.com/Unlocking-Bible-New-Testament-%E6%96%B0%E7%B4%84%E7%B8%B1%E8%A6%BD/dp/9868275032/).
   - [GOOD TV 大衛‧鮑森研經叢書－新舊約縱覽 通往真理的金鑰](https://www.davidpawson.org/wp-content/uploads/2020/05/David_Pawson_Chinese_books.pdf).
 
+| | | |
+|:---:|:---:|:---:|
+| <a href="https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/"><img src="https://images-na.ssl-images-amazon.com/images/I/41hS71+HNmL._SX348_BO1,204,203,200_.jpg" alt="Unlocking The Bible" width="200"/></a> | <a href="https://www.amazon.com/%E8%88%8A%E7%B4%84%E7%B8%B1%E8%A6%BD-%E5%A4%A7%E8%A1%9B%EF%BC%8E%E9%AE%91%E6%A3%AE%E7%89%A7%E5%B8%AB/dp/9868275083/"><img src="https://images-na.ssl-images-amazon.com/images/I/41K854f1dvL._SX346_BO1,204,203,200_.jpg" alt="舊約縱覽" width="200"/></a> | <a href="https://www.amazon.com/Unlocking-Bible-New-Testament-%E6%96%B0%E7%B4%84%E7%B8%B1%E8%A6%BD/dp/9868275032/"><img src="https://images-na.ssl-images-amazon.com/images/I/41E96Gj8c8L._SX298_BO1,204,203,200_.jpg" alt="新約縱覽" width="200"/></a> |
+| [Unlocking The Bible by David Pawson (英文版)](https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/) | [大衛鮑森舊約縱覽 (中文版)](https://www.amazon.com/%E8%88%8A%E7%B4%84%E7%B8%B1%E8%A6%BD-%E5%A4%A7%E8%A1%9B%EF%BC%8E%E9%AE%91%E6%A3%AE%E7%89%A7%E5%B8%AB/dp/9868275083/) | [大衛鮑森新約縱覽 (中文版)](https://www.amazon.com/Unlocking-Bible-New-Testament-%E6%96%B0%E7%B4%84%E7%B8%B1%E8%A6%BD/dp/9868275032/) |
+
+<!--
+| | | |
+|:---:|:---:|:---:|
+| [![Unlocking The Bible](https://images-na.ssl-images-amazon.com/images/I/41hS71+HNmL._SX348_BO1,204,203,200_.jpg)](https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/) | [![舊約縱覽](https://images-na.ssl-images-amazon.com/images/I/41K854f1dvL._SX346_BO1,204,203,200_.jpg)](https://www.amazon.com/%E8%88%8A%E7%B4%84%E7%B8%B1%E8%A6%BD-%E5%A4%A7%E8%A1%9B%EF%BC%8E%E9%AE%91%E6%A3%AE%E7%89%A7%E5%B8%AB/dp/9868275083/) | [![新約縱覽](https://images-na.ssl-images-amazon.com/images/I/41E96Gj8c8L._SX298_BO1,204,203,200_.jpg)](https://www.amazon.com/Unlocking-Bible-New-Testament-%E6%96%B0%E7%B4%84%E7%B8%B1%E8%A6%BD/dp/9868275032/) |
+| | | |
+-->
 ---
 ## 大衛鮑森舊約縱覽： 通往真理的金鑰
 - [大衛鮑森舊約縱覽 全部英文及中文講義 (PDF)](https://davidpawson.storage.sardius.media/file/davidpawson/Pawson/Notes/Chinese_David_Pawson_Unlocking_the_Bible_OT_Notes_Part_1.pdf).
