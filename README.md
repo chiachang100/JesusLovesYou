@@ -80,7 +80,7 @@
 | 52 | [彌迦書](https://www.youtube.com/watch?v=olDmFPcHs6I) | 37:58 | | [Micah](https://www.youtube.com/watch?v=qhsA1DoYqBw) | |
 | 53 | [那鴻書](https://www.youtube.com/watch?v=5mw-ri9r0JY) | 35:38 | | [Nahum](https://www.youtube.com/watch?v=nPe0-YDFe1I) | |
 | 54 | [哈巴谷書](https://www.youtube.com/watch?v=lAKk8ieKmho) | 35:33 | | [Habakkuk](https://www.youtube.com/watch?v=lGYkZtGoXvs) | |
-| 43 | [西番雅書](https://www.youtube.com/watch?v=ifDRcEKNhTk) | 40:23 | | [Zephaniah](https://www.youtube.com/watch?v=S_NEUA55I_U) | |
+| 55 | [西番雅書](https://www.youtube.com/watch?v=ifDRcEKNhTk) | 40:23 | | [Zephaniah](https://www.youtube.com/watch?v=S_NEUA55I_U) | |
 | 56 | [哈該書](https://www.youtube.com/watch?v=Elaivs_ArAo) | 33:18 | | [Haggai](https://www.youtube.com/watch?v=nRrTR2XVwLQ) | |
 | 57 | [撒迦利亞書(一)](https://www.youtube.com/watch?v=aThMU_IBQbw) | 44:13 | | [Zechariah 1](https://www.youtube.com/watch?v=QjWIXNOXOrg) | |
 | 58 | [撒迦利亞書(二)](https://www.youtube.com/watch?v=i8ll33d2Tmg) | 44:28 | | [Zechariah 2](https://www.youtube.com/watch?v=MVfylfuesZU) | |
