@@ -51,7 +51,7 @@
 | 12 | [民數記(一)](https://www.youtube.com/watch?v=ANWKSkvFhLE) | 36:58 | 2/7/2022 | [Numbers 1](https://www.youtube.com/watch?v=e3jOEfaSV1A) | |
 | 13 | [民數記(二)](https://www.youtube.com/watch?v=7og8ry-LfU0) | 41:33 | 2/8/2022 | [Numbers 2](https://www.youtube.com/watch?v=0L-qZWuTbR8) | |
 | 14 | [申命記(一)](https://www.youtube.com/watch?v=WZw5MKJS_5Y) | 38:03 | 2/8/2022 | [Deuteronomy 1](https://www.youtube.com/watch?v=B-VsUBdfgPE) | |
-| 15 | [申命記(二)](https://www.youtube.com/watch?v=_3f7Qhqdbs8) | 39:03 | | [Deuteronomy 2](https://www.youtube.com/watch?v=D1edhZfYIpY) | |
+| 15 | [申命記(二)](https://www.youtube.com/watch?v=_3f7Qhqdbs8) | 39:03 | 2/8/2022 | [Deuteronomy 2](https://www.youtube.com/watch?v=D1edhZfYIpY) | |
 | 16 | [約書亞記(一)](https://www.youtube.com/watch?v=k3m_Nv_-rkU) | 38:53 | | [Joshua 1](https://www.youtube.com/watch?v=OS7N6kQIOtI) | |
 | 17 | [約書亞記(二)](https://www.youtube.com/watch?v=6VwGHuvN8yA) | 41:08 | | [Joshua 2](https://www.youtube.com/watch?v=O2GlEjf6B1k) | |
 | 18 | [士師記和路得記(一)](https://www.youtube.com/watch?v=Nv9rAoOdRDg) | 44:13 | | [Judges and Ruth 1](https://www.youtube.com/watch?v=iF-UsFYX1XM) | |
