@@ -105,17 +105,17 @@
 
 | 次序 | 主題(中文) | 影片長度(分鐘) | 觀賞日期(中文) | 主題(英文) | 觀賞日期(英文) |
 |:---:|:----------:|:-------------:|:-------------:|:---------:|:-------------:|
-| 1 | [馬太福音(一)](https://www.youtube.com/watch?v=mbNZAzDSWbo) | 36:48 | | [Matthew 1](https://www.youtube.com/watch?v=F2KMYwBRngU) | |
-| 2 | [馬太福音(二)](https://www.youtube.com/watch?v=GVKvE77O04U) | 40:53 | | [Matthew 2](https://www.youtube.com/watch?v=DmY9AHaOMEI) | |
-| 3 | [馬可福音](https://www.youtube.com/watch?v=aQhDy7mMnL0) | 46:03 | | [Mark](https://www.youtube.com/watch?v=XJVVDqQx3w0) | |
-| 4 | [路加福音](https://www.youtube.com/watch?v=h3jCFdngMvA) | 40:13 | | [Luke](https://www.youtube.com/watch?v=miPvZcX811M) | |
-| 5 | [約翰(一)](https://www.youtube.com/watch?v=FAhddBtQH9w) | 37:33 | | [John 1](https://www.youtube.com/watch?v=XFXTBYMFrYI) | |
-| 6 | [約翰(二)](https://www.youtube.com/watch?v=Q_yb2YbIDmE) | 40:03 | | [John 2](https://www.youtube.com/watch?v=WCyTlWUthw4) | |
-| 7 | [使徒行傳(一)](https://www.youtube.com/watch?v=fbTT9dF0neY) | 40:23 | | [Acts 1](https://www.youtube.com/watch?v=2Z-Hwn_OEpo) | |
-| 8 | [使徒行傳(二)](https://www.youtube.com/watch?v=A6sbvSYMRcI) | 40:18 | | [Acts 2](https://www.youtube.com/watch?v=HZm6pk8cGZA) | |
-| 9 | [羅馬書(一)](https://www.youtube.com/watch?v=Z19mdGQEdEc) | 37:38 | | [Romans 1](https://www.youtube.com/watch?v=OpXQbCnMWgA) | |
-| 10 | [羅馬書(二)](https://www.youtube.com/watch?v=6fIsZbZPKP8) | 40:38 | | [Romans 2](https://www.youtube.com/watch?v=TiCXzATXLmo) | |
-| 11 | [哥林多前後書(一)](https://www.youtube.com/watch?v=CWP2l9PxWN0) | 38:53 | | [1 & 2 Corinthians 1](https://www.youtube.com/watch?v=EyVF6rrQAPE) | |
+| 1 | [馬太福音(一)](https://www.youtube.com/watch?v=mbNZAzDSWbo) | 36:48 | 1/8/2022 | [Matthew 1](https://www.youtube.com/watch?v=F2KMYwBRngU) | |
+| 2 | [馬太福音(二)](https://www.youtube.com/watch?v=GVKvE77O04U) | 40:53 | 1/8/2022 | [Matthew 2](https://www.youtube.com/watch?v=DmY9AHaOMEI) | |
+| 3 | [馬可福音](https://www.youtube.com/watch?v=aQhDy7mMnL0) | 46:03 | 1/8/2022 | [Mark](https://www.youtube.com/watch?v=XJVVDqQx3w0) | |
+| 4 | [路加福音](https://www.youtube.com/watch?v=h3jCFdngMvA) | 40:13 | 1/8/2022 | [Luke](https://www.youtube.com/watch?v=miPvZcX811M) | |
+| 5 | [約翰(一)](https://www.youtube.com/watch?v=FAhddBtQH9w) | 37:33 | 1/8/2022 | [John 1](https://www.youtube.com/watch?v=XFXTBYMFrYI) | |
+| 6 | [約翰(二)](https://www.youtube.com/watch?v=Q_yb2YbIDmE) | 40:03 | 1/8/2022 | [John 2](https://www.youtube.com/watch?v=WCyTlWUthw4) | |
+| 7 | [使徒行傳(一)](https://www.youtube.com/watch?v=fbTT9dF0neY) | 40:23 | 1/9/2022 | [Acts 1](https://www.youtube.com/watch?v=2Z-Hwn_OEpo) | |
+| 8 | [使徒行傳(二)](https://www.youtube.com/watch?v=A6sbvSYMRcI) | 40:18 | 1/9/2022 | [Acts 2](https://www.youtube.com/watch?v=HZm6pk8cGZA) | |
+| 9 | [羅馬書(一)](https://www.youtube.com/watch?v=Z19mdGQEdEc) | 37:38 | 1/9/2022 | [Romans 1](https://www.youtube.com/watch?v=OpXQbCnMWgA) | |
+| 10 | [羅馬書(二)](https://www.youtube.com/watch?v=6fIsZbZPKP8) | 40:38 | 1/9/2022 | [Romans 2](https://www.youtube.com/watch?v=TiCXzATXLmo) | |
+| 11 | [哥林多前後書(一)](https://www.youtube.com/watch?v=CWP2l9PxWN0) | 38:53 | 1/9/2022 | [1 & 2 Corinthians 1](https://www.youtube.com/watch?v=EyVF6rrQAPE) | |
 | 12 | [哥林多前後書(二)](https://www.youtube.com/watch?v=it0Q4IREVpw) | 36:38 | | [1 & 2 Corinthians 2](https://www.youtube.com/watch?v=iis8b_nCYyE) | |
 | 13 | [加拉太書(一)](https://www.youtube.com/watch?v=-fotXlz3T54) |  44:13| | [Galatians 1](https://www.youtube.com/watch?v=dCPYlU_XAfI) | |
 | 14 | [加拉太書(二)](https://www.youtube.com/watch?v=RTNpTwXHmsk) | 37:03 | | [Galatians 2](https://www.youtube.com/watch?v=wlAcBE-3BlQ) | |
