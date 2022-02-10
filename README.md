@@ -12,8 +12,14 @@
   - (中文版) [大衛鮑森講座~新約縱覽 @YouTube](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08819jIw0Vo3q_ob7-dumbW).
   - (英文版) [Unlocking the Old Testament by David Pawson @YouTube](https://www.youtube.com/playlist?list=PLfk5IZQHKovKhMVo9ekMLvZk8vFV9RJvC).
   - (英文版) [Unlocking the New Testament by David Pawson @YouTube](https://www.youtube.com/playlist?list=PLfk5IZQHKovK_7RzISco4nVgMvt0bqFUZ).
+
 - 網站
   - [David Pawson's website](https://www.davidpawson.org/)
+  - [Bible Gateway](https://www.biblegateway.com/)
+  - [YouVersion](https://www.youversion.com/)
+  - [GOOD TV 好消息電視台](https://www.goodtv.tv/)
+  - [RIVER OF LIFE CHRISTIAN CHURCH 矽谷生命河靈糧堂](https://rolcc.net/rolcc2/)
+
 - 書籍
   - (英文版) [Unlocking The Bible: A Unique Overview of the Whole Bible by David Pawson](https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/).
   - (中文版) [大衛鮑森舊約縱覽](https://www.amazon.com/%E8%88%8A%E7%B4%84%E7%B8%B1%E8%A6%BD-%E5%A4%A7%E8%A1%9B%EF%BC%8E%E9%AE%91%E6%A3%AE%E7%89%A7%E5%B8%AB/dp/9868275083/).
