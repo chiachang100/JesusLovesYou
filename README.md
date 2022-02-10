@@ -8,10 +8,10 @@
 ---
 ## 資料來源
 - 視頻
-  - (中文版) [大衛鮑森講座~舊約縱覽 @YouTube](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08O-lWINo2CowDGHw3jBA6x).
-  - (中文版) [大衛鮑森講座~新約縱覽 @YouTube](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08819jIw0Vo3q_ob7-dumbW).
-  - (英文版) [Unlocking the Old Testament by David Pawson @YouTube](https://www.youtube.com/playlist?list=PLfk5IZQHKovKhMVo9ekMLvZk8vFV9RJvC).
-  - (英文版) [Unlocking the New Testament by David Pawson @YouTube](https://www.youtube.com/playlist?list=PLfk5IZQHKovK_7RzISco4nVgMvt0bqFUZ).
+  - (中文版) [大衛鮑森講座~舊約縱覽 @YouTube 播放列表](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08O-lWINo2CowDGHw3jBA6x).
+  - (中文版) [大衛鮑森講座~新約縱覽 @YouTube 播放列表](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08819jIw0Vo3q_ob7-dumbW).
+  - (英文版) [Unlocking the Old Testament by David Pawson @YouTube Playlist](https://www.youtube.com/playlist?list=PLfk5IZQHKovKhMVo9ekMLvZk8vFV9RJvC).
+  - (英文版) [Unlocking the New Testament by David Pawson @YouTube Playlist](https://www.youtube.com/playlist?list=PLfk5IZQHKovK_7RzISco4nVgMvt0bqFUZ).
 
 - 網站
   - [David Pawson's website](https://www.davidpawson.org/)
@@ -39,10 +39,12 @@
 -->
 ---
 ## 大衛鮑森舊約縱覽： 通往真理的金鑰
-- [大衛鮑森舊約縱覽 全部英文及中文講義 (PDF)](https://davidpawson.storage.sardius.media/file/davidpawson/Pawson/Notes/Chinese_David_Pawson_Unlocking_the_Bible_OT_Notes_Part_1.pdf).
+- (中文版) [大衛鮑森講座~舊約縱覽 @YouTube 播放列表](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08O-lWINo2CowDGHw3jBA6x)
+- (英文版) [Unlocking the Old Testament by David Pawson @YouTube Playlist](https://www.youtube.com/playlist?list=PLfk5IZQHKovKhMVo9ekMLvZk8vFV9RJvC).
+- (英文及中文講義) [大衛鮑森舊約縱覽 全部英文及中文講義 (PDF)](https://davidpawson.storage.sardius.media/file/davidpawson/Pawson/Notes/Chinese_David_Pawson_Unlocking_the_Bible_OT_Notes_Part_1.pdf).
 
-| 次序 | 主題(中文) | 影片長度(分鐘) | 觀賞日期(中文) | 主題(英文) | 觀賞日期(英文) |
-|:---:|:----------:|:-------------:|:-------------:|:---------:|:-------------:|
+| 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期(中文) | 個別主題(英文) | 觀賞日期(英文) |
+|:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 1 | [舊約概論](https://www.youtube.com/watch?v=wi8b9jOYmK0) | 40:08 | 2/1/2022 | [Overview of the Old Testament](https://www.youtube.com/watch?v=3y7nN4TVX5Y) | 7/23/2021 |
 | 2 | [創世記(一) 聖經的基礎](https://www.youtube.com/watch?v=fizg-bxIjuY) | 40:03 | 2/2/2022 | [Genesis 1](https://www.youtube.com/watch?v=TdKe0NNHWmY) | 8/4/2021 |
 | 3 | [創世記(二) 造物主和受造物](https://www.youtube.com/watch?v=jHKK66iKTng) | 38:28 | 2/3/2022 | [Genesis 2](https://www.youtube.com/watch?v=3FQhzYaVk6k) | 8/4/2021 |
@@ -107,10 +109,12 @@
 
 ---
 ## 大衛鮑森新約縱覽： 通往真理的金鑰
-- [大衛鮑森新約縱覽 全部英文及中文講義 (PDF)](http://davidpawson.storage.sardius.media/file/davidpawson/Pawson/Notes/Chinese_David_Pawson_Unlocking_the_Bible_NT_Notes.pdf).
+- (中文版) [大衛鮑森講座~新約縱覽 @YouTube 播放列表](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08819jIw0Vo3q_ob7-dumbW).
+- (英文版) [Unlocking the New Testament by David Pawson @YouTube Playlist](https://www.youtube.com/playlist?list=PLfk5IZQHKovK_7RzISco4nVgMvt0bqFUZ).
+- (英文及中文講義) [大衛鮑森新約縱覽 全部英文及中文講義 (PDF)](http://davidpawson.storage.sardius.media/file/davidpawson/Pawson/Notes/Chinese_David_Pawson_Unlocking_the_Bible_NT_Notes.pdf).
 
-| 次序 | 主題(中文) | 影片長度(分鐘) | 觀賞日期(中文) | 主題(英文) | 觀賞日期(英文) |
-|:---:|:----------:|:-------------:|:-------------:|:---------:|:-------------:|
+| 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期(中文) | 個別主題(英文) | 觀賞日期(英文) |
+|:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 1 | [馬太福音(一)](https://www.youtube.com/watch?v=mbNZAzDSWbo) | 36:48 | 1/8/2022 | [Matthew 1](https://www.youtube.com/watch?v=F2KMYwBRngU) | 6/24/2021 |
 | 2 | [馬太福音(二)](https://www.youtube.com/watch?v=GVKvE77O04U) | 40:53 | 1/8/2022 | [Matthew 2](https://www.youtube.com/watch?v=DmY9AHaOMEI) | 6/24/2021 |
 | 3 | [馬可福音](https://www.youtube.com/watch?v=aQhDy7mMnL0) | 46:03 | 1/8/2022 | [Mark](https://www.youtube.com/watch?v=XJVVDqQx3w0) | 6/24/2021 |
