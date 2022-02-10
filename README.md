@@ -59,7 +59,7 @@
 | 14 | [申命記(一)](https://www.youtube.com/watch?v=WZw5MKJS_5Y) | 38:03 | 2/8/2022 | [Deuteronomy 1](https://www.youtube.com/watch?v=B-VsUBdfgPE) | 8/14/2021 |
 | 15 | [申命記(二)](https://www.youtube.com/watch?v=_3f7Qhqdbs8) | 39:03 | 2/8/2022 | [Deuteronomy 2](https://www.youtube.com/watch?v=D1edhZfYIpY) | 8/15/2021 |
 | 16 | [約書亞記(一)](https://www.youtube.com/watch?v=k3m_Nv_-rkU) | 38:53 | 2/9/2022 | [Joshua 1](https://www.youtube.com/watch?v=OS7N6kQIOtI) | 8/15/2021 |
-| 17 | [約書亞記(二)](https://www.youtube.com/watch?v=6VwGHuvN8yA) | 41:08 | | [Joshua 2](https://www.youtube.com/watch?v=O2GlEjf6B1k) | 8/15/2021 |
+| 17 | [約書亞記(二)](https://www.youtube.com/watch?v=6VwGHuvN8yA) | 41:08 | 2/10/2022 | [Joshua 2](https://www.youtube.com/watch?v=O2GlEjf6B1k) | 8/15/2021 |
 | 18 | [士師記和路得記(一)](https://www.youtube.com/watch?v=Nv9rAoOdRDg) | 44:13 | | [Judges and Ruth 1](https://www.youtube.com/watch?v=iF-UsFYX1XM) | 8/16/2021 |
 | 19 | [士師記和路得記(二)](https://www.youtube.com/watch?v=eVjbrgGBzCI) | 37:13 | | [Judges and Ruth 2](https://www.youtube.com/watch?v=WHGbkXiN5Mk) | 8/16/2021 |
 | 20 | [撒母耳記上下(一)](https://www.youtube.com/watch?v=QO6IzSoowFQ) | 40:18 | | [1 & 2 Samuel 1](https://www.youtube.com/watch?v=V-gozmcy3PM) | 8/16/2021 |
@@ -123,7 +123,7 @@
 | 10 | [羅馬書(二)](https://www.youtube.com/watch?v=6fIsZbZPKP8) | 40:38 | 1/9/2022 | [Romans 2](https://www.youtube.com/watch?v=TiCXzATXLmo) | 6/25/2021 |
 | 11 | [哥林多前後書(一)](https://www.youtube.com/watch?v=CWP2l9PxWN0) | 38:53 | 1/9/2022 | [1 & 2 Corinthians 1](https://www.youtube.com/watch?v=EyVF6rrQAPE) | 6/26/2021 |
 | 12 | [哥林多前後書(二)](https://www.youtube.com/watch?v=it0Q4IREVpw) | 36:38 | 2/9/2022 | [1 & 2 Corinthians 2](https://www.youtube.com/watch?v=iis8b_nCYyE) | 6/26/2021 |
-| 13 | [加拉太書(一)](https://www.youtube.com/watch?v=-fotXlz3T54) |  44:13| | [Galatians 1](https://www.youtube.com/watch?v=dCPYlU_XAfI) | 6/26/2021 |
+| 13 | [加拉太書(一)](https://www.youtube.com/watch?v=-fotXlz3T54) |  44:13| 2/10/2022 | [Galatians 1](https://www.youtube.com/watch?v=dCPYlU_XAfI) | 6/26/2021 |
 | 14 | [加拉太書(二)](https://www.youtube.com/watch?v=RTNpTwXHmsk) | 37:03 | | [Galatians 2](https://www.youtube.com/watch?v=wlAcBE-3BlQ) | 6/27/2021 |
 | 15 | [以弗所書](https://www.youtube.com/watch?v=b1vUmhxDUBg) | 40:53 | | [Ephesians](https://www.youtube.com/watch?v=lq7mT9Vo9Ls) | 6/27/2021 |
 | 16 | [腓立比書&腓利門書(一)](https://www.youtube.com/watch?v=HXs1ZFGbbik) | 42:38 | | [Philippians & Philemon 1](https://www.youtube.com/watch?v=OEMr3lNzMDs) | 6/28/2021 |
