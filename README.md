@@ -62,7 +62,7 @@
 | 15 | [申命記(二)](https://www.youtube.com/watch?v=_3f7Qhqdbs8) | 39:03 | 2/8/2022 | [Deuteronomy 2](https://www.youtube.com/watch?v=D1edhZfYIpY) | 8/15/2021 |
 | 16 | [約書亞記(一)](https://www.youtube.com/watch?v=k3m_Nv_-rkU) | 38:53 | 2/9/2022 | [Joshua 1](https://www.youtube.com/watch?v=OS7N6kQIOtI) | 8/15/2021 |
 | 17 | [約書亞記(二)](https://www.youtube.com/watch?v=6VwGHuvN8yA) | 41:08 | 2/10/2022 | [Joshua 2](https://www.youtube.com/watch?v=O2GlEjf6B1k) | 8/15/2021 |
-| 18 | [士師記和路得記(一)](https://www.youtube.com/watch?v=Nv9rAoOdRDg) | 44:13 | | [Judges and Ruth 1](https://www.youtube.com/watch?v=iF-UsFYX1XM) | 8/16/2021 |
+| 18 | [士師記和路得記(一)](https://www.youtube.com/watch?v=Nv9rAoOdRDg) | 44:13 | 2/11/2022 | [Judges and Ruth 1](https://www.youtube.com/watch?v=iF-UsFYX1XM) | 8/16/2021 |
 | 19 | [士師記和路得記(二)](https://www.youtube.com/watch?v=eVjbrgGBzCI) | 37:13 | | [Judges and Ruth 2](https://www.youtube.com/watch?v=WHGbkXiN5Mk) | 8/16/2021 |
 | 20 | [撒母耳記上下(一)](https://www.youtube.com/watch?v=QO6IzSoowFQ) | 40:18 | | [1 & 2 Samuel 1](https://www.youtube.com/watch?v=V-gozmcy3PM) | 8/16/2021 |
 | 21 | [撒母耳記上下(二)](https://www.youtube.com/watch?v=Kws-E0Pf-m0) | 37:38 | | [1 & 2 Samuel 2](https://www.youtube.com/watch?v=ULLioZwvdEU) | 8/16/2021 |
