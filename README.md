@@ -64,7 +64,7 @@
 | 17 | [約書亞記(二)](https://www.youtube.com/watch?v=6VwGHuvN8yA) | 41:08 | 2/10/2022 | [Joshua 2](https://www.youtube.com/watch?v=O2GlEjf6B1k) | 8/15/2021 |
 | 18 | [士師記和路得記(一)](https://www.youtube.com/watch?v=Nv9rAoOdRDg) | 44:13 | 2/11/2022 | [Judges and Ruth 1](https://www.youtube.com/watch?v=iF-UsFYX1XM) | 8/16/2021 |
 | 19 | [士師記和路得記(二)](https://www.youtube.com/watch?v=eVjbrgGBzCI) | 37:13 |  2/12/2022 | [Judges and Ruth 2](https://www.youtube.com/watch?v=WHGbkXiN5Mk) | 8/16/2021 |
-| 20 | [撒母耳記上下(一)](https://www.youtube.com/watch?v=QO6IzSoowFQ) | 40:18 | | [1 & 2 Samuel 1](https://www.youtube.com/watch?v=V-gozmcy3PM) | 8/16/2021 |
+| 20 | [撒母耳記上下(一)](https://www.youtube.com/watch?v=QO6IzSoowFQ) | 40:18 | 2/13/2022 | [1 & 2 Samuel 1](https://www.youtube.com/watch?v=V-gozmcy3PM) | 8/16/2021 |
 | 21 | [撒母耳記上下(二)](https://www.youtube.com/watch?v=Kws-E0Pf-m0) | 37:38 | | [1 & 2 Samuel 2](https://www.youtube.com/watch?v=ULLioZwvdEU) | 8/16/2021 |
 | 22 | [列王紀上下(一)](https://www.youtube.com/watch?v=wixHQA0lfkU) | 37:28 | | [1 & 2 Kings 1](https://www.youtube.com/watch?v=tjfEgekLD5s) | 8/17/2021 |
 | 23 | [列王紀上下(二)](https://www.youtube.com/watch?v=sfA_bH8FO8Q) | 39:13 | | [1 & 2 Kings 2](https://www.youtube.com/watch?v=kkj7q9vI3Zs) | 8/17/2021 |
