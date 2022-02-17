@@ -67,7 +67,7 @@
 | 20 | [撒母耳記上下(一)](https://www.youtube.com/watch?v=QO6IzSoowFQ) | 40:18 | 2/13/2022 | [1 & 2 Samuel 1](https://www.youtube.com/watch?v=V-gozmcy3PM) | 8/16/2021 |
 | 21 | [撒母耳記上下(二)](https://www.youtube.com/watch?v=Kws-E0Pf-m0) | 37:38 | 2/14/2022 | [1 & 2 Samuel 2](https://www.youtube.com/watch?v=ULLioZwvdEU) | 8/16/2021 |
 | 22 | [列王紀上下(一)](https://www.youtube.com/watch?v=wixHQA0lfkU) | 37:28 | 2/15/2022 | [1 & 2 Kings 1](https://www.youtube.com/watch?v=tjfEgekLD5s) | 8/17/2021 |
-| 23 | [列王紀上下(二)](https://www.youtube.com/watch?v=sfA_bH8FO8Q) | 39:13 | | [1 & 2 Kings 2](https://www.youtube.com/watch?v=kkj7q9vI3Zs) | 8/17/2021 |
+| 23 | [列王紀上下(二)](https://www.youtube.com/watch?v=sfA_bH8FO8Q) | 39:13 | 2/16/2022 | [1 & 2 Kings 2](https://www.youtube.com/watch?v=kkj7q9vI3Zs) | 8/17/2021 |
 | 24 | [歷代志上下](https://www.youtube.com/watch?v=tDiYsWoBj2M) | 41:28 | | [1 & 2 Chronicles](https://www.youtube.com/watch?v=N-Y6TBUWoc0) | 8/17/2021 |
 | 25 | [以斯拉記和尼希米記(一)](https://www.youtube.com/watch?v=9544sNFMFvc) | 33:53 | | [Ezra and Nehemiah 1](https://www.youtube.com/watch?v=JS-c9qS8uA8) | 8/17/2021 |
 | 26 | [以斯拉記和尼希米記(二)](https://www.youtube.com/watch?v=u3q5lSAwsSI) | 31:27 | | [Ezra and Nehemiah 2](https://www.youtube.com/watch?v=9q0vg9-p-8E) | 8/17/2021 |
