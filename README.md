@@ -70,8 +70,8 @@
 | 23 | [列王紀上下(二)](https://www.youtube.com/watch?v=sfA_bH8FO8Q) | 39:13 | 2/16/2022 | [1 & 2 Kings 2](https://www.youtube.com/watch?v=kkj7q9vI3Zs) | 8/17/2021 |
 | 24 | [歷代志上下](https://www.youtube.com/watch?v=tDiYsWoBj2M) | 41:28 | 2/17/2022 | [1 & 2 Chronicles](https://www.youtube.com/watch?v=N-Y6TBUWoc0) | 8/17/2021 |
 | 25 | [以斯拉記和尼希米記(一)](https://www.youtube.com/watch?v=9544sNFMFvc) | 33:53 | 2/18/2022 | [Ezra and Nehemiah 1](https://www.youtube.com/watch?v=JS-c9qS8uA8) | 8/17/2021 |
-| 26 | [以斯拉記和尼希米記(二)](https://www.youtube.com/watch?v=u3q5lSAwsSI) | 31:27 | | [Ezra and Nehemiah 2](https://www.youtube.com/watch?v=9q0vg9-p-8E) | 8/17/2021 |
-| 27 | [以斯帖記](https://www.youtube.com/watch?v=YpBGW86YsYA) | 38:33 | | [Esther](https://www.youtube.com/watch?v=_skPXjv4XZY) | 8/18/2021 |
+| 26 | [以斯拉記和尼希米記(二)](https://www.youtube.com/watch?v=u3q5lSAwsSI) | 31:27 | 2/19/2022 | [Ezra and Nehemiah 2](https://www.youtube.com/watch?v=9q0vg9-p-8E) | 8/17/2021 |
+| 27 | [以斯帖記](https://www.youtube.com/watch?v=YpBGW86YsYA) | 38:33 | 2/19/2022 | [Esther](https://www.youtube.com/watch?v=_skPXjv4XZY) | 8/18/2021 |
 | 28 | [約伯記(一)](https://www.youtube.com/watch?v=UGaSYXN1sNQ) | 41:23 | | [Job 1](https://www.youtube.com/watch?v=mBSKwuVUOfs) | 8/18/2021 |
 | 29 | [約伯記(二)](https://www.youtube.com/watch?v=KiLBSOPrInA) | 41:38 | | [Job 2](https://www.youtube.com/watch?v=XWcWYdo7hXA) | 8/18/2021 |
 | 30 | [希伯來詩](https://www.youtube.com/watch?v=OUMGMY8121s) | 34:48 | | [Hebrew Poetry](https://www.youtube.com/watch?v=v5y0G6WhDDA) | 8/18/2021 |
