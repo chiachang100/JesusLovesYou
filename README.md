@@ -156,3 +156,11 @@
 | 全部時間 | - | 25:14:42 | - | - | - |
 
 ---
+## 大衛鮑森牧師善道傳承 - 大衛鮑森國際中文頻道 GOODTV
+- [善道傳承（一）我的講道史](https://www.youtube.com/watch?v=hSHmd12GzFI)
+- [善道傳承（二）如何預備講章（上）](https://www.youtube.com/watch?v=xyRq0jg_BhQ)
+- [善道傳承（三）如何預備講章（下）](https://www.youtube.com/watch?v=jTxlWgHLU64)
+- [善道傳承（四）情境式講道](https://www.youtube.com/watch?v=encpP_Ptc8A)
+- [善道傳承（五）講道的實際層面](https://www.youtube.com/watch?v=nPpf63sFJoc)
+
+---
