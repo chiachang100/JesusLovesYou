@@ -158,6 +158,7 @@
 ---
 ## 大衛鮑森牧師善道傳承 - 大衛鮑森國際中文頻道 GOODTV
 - [善道傳承（一）我的講道史](https://www.youtube.com/watch?v=hSHmd12GzFI)
+  - 大衛鮑森牧師簡單回顧他的講道史，約略分成幾個階段：一、見證式講道。二、經節式講道。三、主題式講道。四、段落式講道。五、負擔式講道。六、逐卷式講道。七、情境式講道，把神的話放入生活情境，講整本聖經。
 - [善道傳承（二）如何預備講章（上）](https://www.youtube.com/watch?v=xyRq0jg_BhQ)
 - [善道傳承（三）如何預備講章（下）](https://www.youtube.com/watch?v=jTxlWgHLU64)
 - [善道傳承（四）情境式講道](https://www.youtube.com/watch?v=encpP_Ptc8A)
