@@ -74,7 +74,7 @@
 | 27 | [以斯帖記](https://www.youtube.com/watch?v=YpBGW86YsYA) | 38:33 | 2/19/2022 | [Esther](https://www.youtube.com/watch?v=_skPXjv4XZY) | 8/18/2021 |
 | 28 | [約伯記(一)](https://www.youtube.com/watch?v=UGaSYXN1sNQ) | 41:23 | 2/20/2022 | [Job 1](https://www.youtube.com/watch?v=mBSKwuVUOfs) | 8/18/2021 |
 | 29 | [約伯記(二)](https://www.youtube.com/watch?v=KiLBSOPrInA) | 41:38 | 2/20/2022 | [Job 2](https://www.youtube.com/watch?v=XWcWYdo7hXA) | 8/18/2021 |
-| 30 | [希伯來詩](https://www.youtube.com/watch?v=OUMGMY8121s) | 34:48 | | [Hebrew Poetry](https://www.youtube.com/watch?v=v5y0G6WhDDA) | 8/18/2021 |
+| 30 | [希伯來詩](https://www.youtube.com/watch?v=OUMGMY8121s) | 34:48 | 2/21/2022 | [Hebrew Poetry](https://www.youtube.com/watch?v=v5y0G6WhDDA) | 8/18/2021 |
 | 31 | [詩篇(一)](https://www.youtube.com/watch?v=EoATnlIyBIE) | 40:23 | | [Psalms 1](https://www.youtube.com/watch?v=qB3QV713xm0) | 8/18/2021 |
 | 32 | [詩篇(二)](https://www.youtube.com/watch?v=VrX7zj8HzQk) | 42:23 | | [Psalms 2](https://www.youtube.com/watch?v=hQJNMgIHVKw) | 8/19/2021 |
 | 33 | [箴言(一)](https://www.youtube.com/watch?v=p4Zn9wZza4k) | 37:33 | | [Proverbs 1](https://www.youtube.com/watch?v=O3rct6R2AA8) | 8/19/2021 |
