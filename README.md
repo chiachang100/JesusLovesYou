@@ -74,7 +74,7 @@
 | - | - | - | - | - | - |
 | III | 敬拜與智慧之詩 | - | - | POEMS OF WORSHIP AND WISDOM | - |
 | 24 | [希伯來詩](https://www.youtube.com/watch?v=OUMGMY8121s) | 34:48 | 2/21/2022 | [Hebrew Poetry](https://www.youtube.com/watch?v=v5y0G6WhDDA) | 8/18/2021 |
-| 25 | [詩篇(一)](https://www.youtube.com/watch?v=EoATnlIyBIE) | 40:23 | | [Psalms 1](https://www.youtube.com/watch?v=qB3QV713xm0) | 8/18/2021 |
+| 25 | [詩篇(一)](https://www.youtube.com/watch?v=EoATnlIyBIE) | 40:23 | 2/22/2022| [Psalms 1](https://www.youtube.com/watch?v=qB3QV713xm0) | 8/18/2021 |
 | 26 | [詩篇(二)](https://www.youtube.com/watch?v=VrX7zj8HzQk) | 42:23 | | [Psalms 2](https://www.youtube.com/watch?v=hQJNMgIHVKw) | 8/19/2021 |
 | 27 | [雅歌](https://www.youtube.com/watch?v=S_uSerwYiFY) | 38:33 | | [Song of Songs](https://www.youtube.com/watch?v=YYtZ-gkQtFI) | 8/19/2021 |
 | 28 | [箴言(一)](https://www.youtube.com/watch?v=p4Zn9wZza4k) | 37:33 | | [Proverbs 1](https://www.youtube.com/watch?v=O3rct6R2AA8) | 8/19/2021 |
