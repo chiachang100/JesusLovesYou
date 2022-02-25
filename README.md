@@ -77,8 +77,8 @@
 | 25 | [詩篇(一)](https://www.youtube.com/watch?v=EoATnlIyBIE) | 40:23 | 2/22/2022 | [Psalms 1](https://www.youtube.com/watch?v=qB3QV713xm0) | 8/18/2021 |
 | 26 | [詩篇(二)](https://www.youtube.com/watch?v=VrX7zj8HzQk) | 42:23 | 2/22/2022 | [Psalms 2](https://www.youtube.com/watch?v=hQJNMgIHVKw) | 8/19/2021 |
 | 27 | [雅歌](https://www.youtube.com/watch?v=S_uSerwYiFY) | 38:33 | 2/23/2022 | [Song of Songs](https://www.youtube.com/watch?v=YYtZ-gkQtFI) | 8/19/2021 |
-| 28 | [箴言(一)](https://www.youtube.com/watch?v=p4Zn9wZza4k) | 37:33 | | [Proverbs 1](https://www.youtube.com/watch?v=O3rct6R2AA8) | 8/19/2021 |
-| 29 | [箴言(二)](https://www.youtube.com/watch?v=6PbDZWcUBbY) | 32:53 | | [Proverbs 2](https://www.youtube.com/watch?v=cj7XMIatkgc) | 8/19/2021 |
+| 28 | [箴言(一)](https://www.youtube.com/watch?v=p4Zn9wZza4k) | 37:33 | 2/24/2022 | [Proverbs 1](https://www.youtube.com/watch?v=O3rct6R2AA8) | 8/19/2021 |
+| 29 | [箴言(二)](https://www.youtube.com/watch?v=6PbDZWcUBbY) | 32:53 | 2/24/2022 | [Proverbs 2](https://www.youtube.com/watch?v=cj7XMIatkgc) | 8/19/2021 |
 | 30 | [傳道書](https://www.youtube.com/watch?v=E4S-EcD1BgA) | 39:23 | | [Ecclesiastes](https://www.youtube.com/watch?v=mExfn1kAxLE) | 8/19/2021 |
 | 31 | [約伯記(一)](https://www.youtube.com/watch?v=UGaSYXN1sNQ) | 41:23 | 2/20/2022 | [Job 1](https://www.youtube.com/watch?v=mBSKwuVUOfs) | 8/18/2021 |
 | 32 | [約伯記(二)](https://www.youtube.com/watch?v=KiLBSOPrInA) | 41:38 | 2/20/2022 | [Job 2](https://www.youtube.com/watch?v=XWcWYdo7hXA) | 8/18/2021 |
