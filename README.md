@@ -45,7 +45,7 @@
 
 | 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期(中文) | 個別主題(英文) | 觀賞日期(英文) |
 |:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| I | 創物主的指示 | - | - | THE MAKER'S INSTRUCTIONS | - |
+| I | **創物主的指示** | - | - | **THE MAKER'S INSTRUCTIONS** | - |
 | 1 | [舊約概論](https://www.youtube.com/watch?v=wi8b9jOYmK0) | 40:08 | 2/1/2022 | [Overview of the Old Testament](https://www.youtube.com/watch?v=3y7nN4TVX5Y) | 7/23/2021 |
 | 2 | [創世記(一) 聖經的基礎](https://www.youtube.com/watch?v=fizg-bxIjuY) | 40:03 | 2/2/2022 | [Genesis 1](https://www.youtube.com/watch?v=TdKe0NNHWmY) | 8/4/2021 |
 | 3 | [創世記(二) 造物主和受造物](https://www.youtube.com/watch?v=jHKK66iKTng) | 38:28 | 2/3/2022 | [Genesis 2](https://www.youtube.com/watch?v=3FQhzYaVk6k) | 8/4/2021 |
@@ -62,7 +62,7 @@
 | 14 | [申命記(一)](https://www.youtube.com/watch?v=WZw5MKJS_5Y) | 38:03 | 2/8/2022 | [Deuteronomy 1](https://www.youtube.com/watch?v=B-VsUBdfgPE) | 8/14/2021 |
 | 15 | [申命記(二)](https://www.youtube.com/watch?v=_3f7Qhqdbs8) | 39:03 | 2/8/2022 | [Deuteronomy 2](https://www.youtube.com/watch?v=D1edhZfYIpY) | 8/15/2021 |
 | - | - | - | - | - | - |
-| II | 土地與王國 | - | - | A LAND AND A KINGDOM | - |
+| II | **土地與王國** | - | - | **A LAND AND A KINGDOM** | - |
 | 16 | [約書亞記(一)](https://www.youtube.com/watch?v=k3m_Nv_-rkU) | 38:53 | 2/9/2022 | [Joshua 1](https://www.youtube.com/watch?v=OS7N6kQIOtI) | 8/15/2021 |
 | 17 | [約書亞記(二)](https://www.youtube.com/watch?v=6VwGHuvN8yA) | 41:08 | 2/10/2022 | [Joshua 2](https://www.youtube.com/watch?v=O2GlEjf6B1k) | 8/15/2021 |
 | 18 | [士師記和路得記(一)](https://www.youtube.com/watch?v=Nv9rAoOdRDg) | 44:13 | 2/11/2022 | [Judges and Ruth 1](https://www.youtube.com/watch?v=iF-UsFYX1XM) | 8/16/2021 |
@@ -72,7 +72,7 @@
 | 22 | [列王紀上下(一)](https://www.youtube.com/watch?v=wixHQA0lfkU) | 37:28 | 2/15/2022 | [1 & 2 Kings 1](https://www.youtube.com/watch?v=tjfEgekLD5s) | 8/17/2021 |
 | 23 | [列王紀上下(二)](https://www.youtube.com/watch?v=sfA_bH8FO8Q) | 39:13 | 2/16/2022 | [1 & 2 Kings 2](https://www.youtube.com/watch?v=kkj7q9vI3Zs) | 8/17/2021 |
 | - | - | - | - | - | - |
-| III | 敬拜與智慧之詩 | - | - | POEMS OF WORSHIP AND WISDOM | - |
+| III | **敬拜與智慧之詩** | - | - | **POEMS OF WORSHIP AND WISDOM** | - |
 | 24 | [希伯來詩](https://www.youtube.com/watch?v=OUMGMY8121s) | 34:48 | 2/21/2022 | [Hebrew Poetry](https://www.youtube.com/watch?v=v5y0G6WhDDA) | 8/18/2021 |
 | 25 | [詩篇(一)](https://www.youtube.com/watch?v=EoATnlIyBIE) | 40:23 | 2/22/2022 | [Psalms 1](https://www.youtube.com/watch?v=qB3QV713xm0) | 8/18/2021 |
 | 26 | [詩篇(二)](https://www.youtube.com/watch?v=VrX7zj8HzQk) | 42:23 | 2/22/2022 | [Psalms 2](https://www.youtube.com/watch?v=hQJNMgIHVKw) | 8/19/2021 |
@@ -83,7 +83,7 @@
 | 31 | [約伯記(一)](https://www.youtube.com/watch?v=UGaSYXN1sNQ) | 41:23 | 2/20/2022 | [Job 1](https://www.youtube.com/watch?v=mBSKwuVUOfs) | 8/18/2021 |
 | 32 | [約伯記(二)](https://www.youtube.com/watch?v=KiLBSOPrInA) | 41:38 | 2/20/2022 | [Job 2](https://www.youtube.com/watch?v=XWcWYdo7hXA) | 8/18/2021 |
 | IV | - | - | - | - | - |
-| - | 帝國的衰敗與殞落 | - | - | DECLINE AND FALL OF AN EMPIRE | - |
+| - | **帝國的衰敗與殞落** | - | - | **DECLINE AND FALL OF AN EMPIRE** | - |
 | 33 | [約拿書](https://www.youtube.com/watch?v=VthQ-vloIDs) | 39:38 | | [Jonah](https://www.youtube.com/watch?v=g_UJOIgazU4) | 8/21/2021 |
 | 34 | [俄巴底亞書和約珥書(一)](https://www.youtube.com/watch?v=8t0EgxboNic) | 39:13 | | [Obadiah and Joel 1](https://www.youtube.com/watch?v=sSD9K55gxkM) | 8/20/2021 |
 | 35 | [俄巴底亞書和約珥書(二)](https://www.youtube.com/watch?v=OqAHDU4j9H8) | 42:38 | | [Obadiah and Joel 2](https://www.youtube.com/watch?v=GPsDmK7D55s) | 8/21/2021 |
@@ -99,7 +99,7 @@
 | 45 | [耶利米書(二)](https://www.youtube.com/watch?v=qBr3oFKM1CA) | 38:03 | | [Jeremiah 2](https://www.youtube.com/watch?v=IezUHoqpRcY) | 8/19/2021 |
 | 46 | [耶利米哀歌](https://www.youtube.com/watch?v=1M0viFjTNhs) | 38:28 | | [Lamentations](https://www.youtube.com/watch?v=eD4ruTpZ0qk) | 8/19/2021 |
 | - | - | - | - | - | - |
-| V | 奮鬥求生存 | - | - | THE STRUGGLE TO SURVIVE | - |
+| V | **奮鬥求生存** | - | - | T**HE STRUGGLE TO SURVIVE** | - |
 | 47 | [以西結書(一)](https://www.youtube.com/watch?v=0495AQXT6pc) | 35:28 | | [Ezekiel 1](https://www.youtube.com/watch?v=xTzc8FoA4i0) | 8/19/2021 |
 | 48 | [以西結書(二)](https://www.youtube.com/watch?v=LNcuunNZoyQ) | 40:08 | | [Ezekiel 2](https://www.youtube.com/watch?v=kciYe1lIYvs) | 8/19/2021 |
 | 49 | [以西結書(三)](https://www.youtube.com/watch?v=Cv675u4y8Wc) | 39:28 | | [Ezekiel 3](https://www.youtube.com/watch?v=Q7oE5xET8P8) | 8/19/2021 |
@@ -114,7 +114,7 @@
 | 58 | [撒迦利亞書(二)](https://www.youtube.com/watch?v=i8ll33d2Tmg) | 44:28 | | [Zechariah 2](https://www.youtube.com/watch?v=MVfylfuesZU) | 8/21/2021 |
 | 59 | [瑪拉基書(一)](https://www.youtube.com/watch?v=qrwBNpCajeM) | 29:17 | | [Malachi 1](https://www.youtube.com/watch?v=csz6N5ZByJQ) | 8/21/2021 |
 | 60 | [瑪拉基書(二)](https://www.youtube.com/watch?v=VwlaqEewS2Q) | 28:22 | | [Malachi 2](https://www.youtube.com/watch?v=bUJxoINZW2Q) | 8/21/2021 |
-| - | 全部時間 | 38:18:33 | - | - | - |
+| - | **全部時間** | **38:18:33** | - | - | - |
 
 ---
 ## 大衛鮑森新約縱覽： 通往真理的金鑰
@@ -124,7 +124,7 @@
 
 | 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期(中文) | 個別主題(英文) | 觀賞日期(英文) |
 |:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| I | 歷史樞紐 | - | - | THE HINGE OF HISTORY | - |
+| I | **歷史樞紐** | - | - | **THE HINGE OF HISTORY** | - |
 | 1 | [馬可福音](https://www.youtube.com/watch?v=aQhDy7mMnL0) | 46:03 | 1/8/2022 | [Mark](https://www.youtube.com/watch?v=XJVVDqQx3w0) | 6/24/2021 |
 | 2 | [馬太福音(一)](https://www.youtube.com/watch?v=mbNZAzDSWbo) | 36:48 | 1/8/2022 | [Matthew 1](https://www.youtube.com/watch?v=F2KMYwBRngU) | 6/24/2021 |
 | 3 | [馬太福音(二)](https://www.youtube.com/watch?v=GVKvE77O04U) | 40:53 | 1/8/2022 | [Matthew 2](https://www.youtube.com/watch?v=DmY9AHaOMEI) | 6/24/2021 |
@@ -134,7 +134,7 @@
 | 7 | [約翰(一)](https://www.youtube.com/watch?v=FAhddBtQH9w) | 37:33 | 1/8/2022 | [John 1](https://www.youtube.com/watch?v=XFXTBYMFrYI) | 6/24/2021 |
 | 8 | [約翰(二)](https://www.youtube.com/watch?v=Q_yb2YbIDmE) | 40:03 | 1/8/2022 | [John 2](https://www.youtube.com/watch?v=WCyTlWUthw4) | 6/24/2021 |
 | - | - | - | - | - | - |
-| II | 第十三位使徒 | - | - | THE THIRTEENTH APOSTLE | - |
+| II | **第十三位使徒** | - | - | **THE THIRTEENTH APOSTLE** | - |
 | 9 | [保羅及保羅書信](https://www.youtube.com/watch?v=ge9w2JgX5kE) | 55:54 | | [Paul and his Letters](https://www.youtube.com/watch?v=7MrTchWaSb8) | 7/14/2021 |
 | 10 | [帖撒羅尼迦前後書(一)](https://www.youtube.com/watch?v=DTTQOxAHxyQ) | 39:32 | | [1 & 2 Thessalonians 1](https://www.youtube.com/watch?v=Q9TObF2wTCQ) | 7/4/2021 |
 | 11 | [帖撒羅尼迦前後書(二)](https://www.youtube.com/watch?v=qKgMyQL4s8o) | 39:08 | | [1 & 2 Thessalonians 2](https://www.youtube.com/watch?v=zcPZWRPdsrQ) | 7/4/2021 |
@@ -151,7 +151,7 @@
 | 22 | [提摩太前後書&提多書(一)](https://www.youtube.com/watch?v=GFMCaItZBJA) | 40:03 | | [Timothy & Titus 1](https://www.youtube.com/watch?v=0j0ovlLp4SU) | 7/5/2021 |
 | 23 | [提摩太前後書&提多書(二)](https://www.youtube.com/watch?v=5T1GIaI4Z4Y) | 38:23 | | [Timothy & Titus 2](https://www.youtube.com/watch?v=iljyisQNcVM) | 7/5/2021 |
 | - | - | - | - | - | - |
-| III | 從苦難到榮耀 | - | - | THROUGH SUFFERING TO GLORY | - |
+| III | **從苦難到榮耀** | - | - | **THROUGH SUFFERING TO GLORY** | - |
 | 24 | [希伯來書(一)](https://www.youtube.com/watch?v=izDPy8eyCRY) | 42:08 | | [Hebrews 1](https://www.youtube.com/watch?v=kmUXH0_rQuQ) | 7/5/2021 |
 | 25 | [希伯來書(二)](https://www.youtube.com/watch?v=jovJ_eFxF7k) | 39:48 | | [Hebrews 2](https://www.youtube.com/watch?v=NrW4pWjUzRQ) | 7/14/2021 |
 | 26 | [雅各書(一)](https://www.youtube.com/watch?v=19i03hKUwDo) | 37:33 | | [James 1](https://www.youtube.com/watch?v=hQjB5nttZLw) | 7/14/2021 |
@@ -167,7 +167,7 @@
 | 36 | [啟示錄(四) 墮落的淫婦](https://www.youtube.com/watch?v=xZ6gRvFs_jo) | 35:08 | | [Revelation Talk 4 The Fallen Prostitute](https://www.youtube.com/watch?v=Gt9Tjj4_Wok) | 7/22/2021 |
 | 37 | [啟示錄(五) 最後的千禧年](https://www.youtube.com/watch?v=MVwPr4EOELs) | 42:58 | | [Revelation Talk 5 The Last Millennium](https://www.youtube.com/watch?v=2ygj_W2JDMo) | 7/23/2021 |
 | 38 | [啟示錄(六) 從天而降的新婦](https://www.youtube.com/watch?v=v0BpxF__-mk) | 37:58 | | [Revelation Talk 6 The Descending Bride](https://www.youtube.com/watch?v=lXVzL3bNoT8) | 7/23/2021 |
-| - | 全部時間 | 25:14:42 | - | - | - |
+| - | **全部時間** | **25:14:42** | - | - | - |
 
 ---
 ## 大衛鮑森牧師善道傳承 - 大衛鮑森國際中文頻道 GOODTV
