@@ -85,14 +85,14 @@
 | IV | - | - | - | - | - |
 | - | **帝國的衰敗與殞落** | - | - | **DECLINE AND FALL OF AN EMPIRE** | - |
 | 33 | [約拿書](https://www.youtube.com/watch?v=VthQ-vloIDs) | 39:38 | 2/25/2022 | [Jonah](https://www.youtube.com/watch?v=g_UJOIgazU4) | 8/21/2021 |
-| 34 | [俄巴底亞書和約珥書(一)](https://www.youtube.com/watch?v=8t0EgxboNic) | 39:13 | | [Obadiah and Joel 1](https://www.youtube.com/watch?v=sSD9K55gxkM) | 8/20/2021 |
-| 35 | [俄巴底亞書和約珥書(二)](https://www.youtube.com/watch?v=OqAHDU4j9H8) | 42:38 | | [Obadiah and Joel 2](https://www.youtube.com/watch?v=GPsDmK7D55s) | 8/21/2021 |
-| 36 | [阿摩司書](https://www.youtube.com/watch?v=ykN2_IMHyXs) | 39:43 | | [Amos](https://www.youtube.com/watch?v=9F_OBKkgj54) | 8/21/2021 |
-| 37 | [何西阿書](https://www.youtube.com/watch?v=VSreYRKicjY) | 34:28 | | [Hosea](https://www.youtube.com/watch?v=S68kXnzI3xA) | 8/20/2021 |
-| 38 | [以賽亞書(一)](https://www.youtube.com/watch?v=1OerxbbwWNU) | 41:33 | | [Isaiah 1](https://www.youtube.com/watch?v=XqNzGrYbFWg) | 8/19/2021 |
-| 39 | [以賽亞書(二)](https://www.youtube.com/watch?v=rNX6qcgZGDo) | 35:18 | | [Isaiah 2](https://www.youtube.com/watch?v=1VLLZ_6ZjiE) | 8/19/2021 |
-| 40 | [彌迦書](https://www.youtube.com/watch?v=olDmFPcHs6I) | 37:58 | | [Micah](https://www.youtube.com/watch?v=qhsA1DoYqBw) | 8/21/2021 |
-| 41 | [那鴻書](https://www.youtube.com/watch?v=5mw-ri9r0JY) | 35:38 | | [Nahum](https://www.youtube.com/watch?v=nPe0-YDFe1I) | 8/21/2021 |
+| 34 | [那鴻書](https://www.youtube.com/watch?v=5mw-ri9r0JY) | 35:38 | | [Nahum](https://www.youtube.com/watch?v=nPe0-YDFe1I) | 8/21/2021 |
+| 35 | [俄巴底亞書和約珥書(一)](https://www.youtube.com/watch?v=8t0EgxboNic) | 39:13 | | [Obadiah and Joel 1](https://www.youtube.com/watch?v=sSD9K55gxkM) | 8/20/2021 |
+| 36 | [俄巴底亞書和約珥書(二)](https://www.youtube.com/watch?v=OqAHDU4j9H8) | 42:38 | | [Obadiah and Joel 2](https://www.youtube.com/watch?v=GPsDmK7D55s) | 8/21/2021 |
+| 37 | [阿摩司書](https://www.youtube.com/watch?v=ykN2_IMHyXs) | 39:43 | | [Amos](https://www.youtube.com/watch?v=9F_OBKkgj54) | 8/21/2021 |
+| 38 | [何西阿書](https://www.youtube.com/watch?v=VSreYRKicjY) | 34:28 | | [Hosea](https://www.youtube.com/watch?v=S68kXnzI3xA) | 8/20/2021 |
+| 39 | [以賽亞書(一)](https://www.youtube.com/watch?v=1OerxbbwWNU) | 41:33 | | [Isaiah 1](https://www.youtube.com/watch?v=XqNzGrYbFWg) | 8/19/2021 |
+| 40 | [以賽亞書(二)](https://www.youtube.com/watch?v=rNX6qcgZGDo) | 35:18 | | [Isaiah 2](https://www.youtube.com/watch?v=1VLLZ_6ZjiE) | 8/19/2021 |
+| 41 | [彌迦書](https://www.youtube.com/watch?v=olDmFPcHs6I) | 37:58 | | [Micah](https://www.youtube.com/watch?v=qhsA1DoYqBw) | 8/21/2021 |
 | 42 | [西番雅書](https://www.youtube.com/watch?v=ifDRcEKNhTk) | 40:23 | | [Zephaniah](https://www.youtube.com/watch?v=S_NEUA55I_U) | 8/21/2021 |
 | 43 | [哈巴谷書](https://www.youtube.com/watch?v=lAKk8ieKmho) | 35:33 | | [Habakkuk](https://www.youtube.com/watch?v=lGYkZtGoXvs) | 8/21/2021 |
 | 44 | [耶利米書(一)](https://www.youtube.com/watch?v=GLvHAUqhKfI) | 38:18 | | [Jeremiah 1](https://www.youtube.com/watch?v=7ziUDeb9RWM) | 8/19/2021 |
