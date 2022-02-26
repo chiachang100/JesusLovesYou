@@ -84,7 +84,7 @@
 | 32 | [約伯記(二)](https://www.youtube.com/watch?v=KiLBSOPrInA) | 41:38 | 2/20/2022 | [Job 2](https://www.youtube.com/watch?v=XWcWYdo7hXA) | 8/18/2021 |
 | IV | - | - | - | - | - |
 | - | **帝國的衰敗與殞落** | - | - | **DECLINE AND FALL OF AN EMPIRE** | - |
-| 33 | [約拿書](https://www.youtube.com/watch?v=VthQ-vloIDs) | 39:38 | | [Jonah](https://www.youtube.com/watch?v=g_UJOIgazU4) | 8/21/2021 |
+| 33 | [約拿書](https://www.youtube.com/watch?v=VthQ-vloIDs) | 39:38 | 2/25/2022 | [Jonah](https://www.youtube.com/watch?v=g_UJOIgazU4) | 8/21/2021 |
 | 34 | [俄巴底亞書和約珥書(一)](https://www.youtube.com/watch?v=8t0EgxboNic) | 39:13 | | [Obadiah and Joel 1](https://www.youtube.com/watch?v=sSD9K55gxkM) | 8/20/2021 |
 | 35 | [俄巴底亞書和約珥書(二)](https://www.youtube.com/watch?v=OqAHDU4j9H8) | 42:38 | | [Obadiah and Joel 2](https://www.youtube.com/watch?v=GPsDmK7D55s) | 8/21/2021 |
 | 36 | [阿摩司書](https://www.youtube.com/watch?v=ykN2_IMHyXs) | 39:43 | | [Amos](https://www.youtube.com/watch?v=9F_OBKkgj54) | 8/21/2021 |
