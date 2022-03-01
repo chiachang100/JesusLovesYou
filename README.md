@@ -88,7 +88,7 @@
 | 34 | [23. 那鴻書](https://www.youtube.com/watch?v=5mw-ri9r0JY) | 35:38 | 2/26/2022 | [Nahum](https://www.youtube.com/watch?v=nPe0-YDFe1I) | 8/21/2021 |
 | 35 | [27. 俄巴底亞書和 19. 約珥書(一)](https://www.youtube.com/watch?v=8t0EgxboNic) | 39:13 | 2/26/2022 | [Obadiah and Joel 1](https://www.youtube.com/watch?v=sSD9K55gxkM) | 8/20/2021 |
 | 36 | [27. 俄巴底亞書和 19. 約珥書(二)](https://www.youtube.com/watch?v=OqAHDU4j9H8) | 42:38 | 2/27/2022 | [Obadiah and Joel 2](https://www.youtube.com/watch?v=GPsDmK7D55s) | 8/21/2021 |
-| 37 | [20. 阿摩司書](https://www.youtube.com/watch?v=ykN2_IMHyXs) | 39:43 | | [Amos](https://www.youtube.com/watch?v=9F_OBKkgj54) | 8/21/2021 |
+| 37 | [20. 阿摩司書](https://www.youtube.com/watch?v=ykN2_IMHyXs) | 39:43 | 2/27/2022 | [Amos](https://www.youtube.com/watch?v=9F_OBKkgj54) | 8/21/2021 |
 | 38 | [20. 何西阿書](https://www.youtube.com/watch?v=VSreYRKicjY) | 34:28 | | [Hosea](https://www.youtube.com/watch?v=S68kXnzI3xA) | 8/20/2021 |
 | 39 | [21. 以賽亞書(一)](https://www.youtube.com/watch?v=1OerxbbwWNU) | 41:33 | | [Isaiah 1](https://www.youtube.com/watch?v=XqNzGrYbFWg) | 8/19/2021 |
 | 40 | [21. 以賽亞書(二)](https://www.youtube.com/watch?v=rNX6qcgZGDo) | 35:18 | | [Isaiah 2](https://www.youtube.com/watch?v=1VLLZ_6ZjiE) | 8/19/2021 |
