@@ -91,8 +91,8 @@
 | 37 | [20. 阿摩司書](https://www.youtube.com/watch?v=ykN2_IMHyXs) | 39:43 | 2/28/2022 | [Amos](https://www.youtube.com/watch?v=9F_OBKkgj54) | 8/21/2021 |
 | 38 | [20. 何西阿書](https://www.youtube.com/watch?v=VSreYRKicjY) | 34:28 | 3/1/2022 | [Hosea](https://www.youtube.com/watch?v=S68kXnzI3xA) | 8/20/2021 |
 | 39 | [21. 以賽亞書(一)](https://www.youtube.com/watch?v=1OerxbbwWNU) | 41:33 | 3/1/2022 | [Isaiah 1](https://www.youtube.com/watch?v=XqNzGrYbFWg) | 8/19/2021 |
-| 40 | [21. 以賽亞書(二)](https://www.youtube.com/watch?v=rNX6qcgZGDo) | 35:18 | | [Isaiah 2](https://www.youtube.com/watch?v=1VLLZ_6ZjiE) | 8/19/2021 |
-| 41 | [22. 彌迦書](https://www.youtube.com/watch?v=olDmFPcHs6I) | 37:58 | | [Micah](https://www.youtube.com/watch?v=qhsA1DoYqBw) | 8/21/2021 |
+| 40 | [21. 以賽亞書(二)](https://www.youtube.com/watch?v=rNX6qcgZGDo) | 35:18 | 3/2/2022 | [Isaiah 2](https://www.youtube.com/watch?v=1VLLZ_6ZjiE) | 8/19/2021 |
+| 41 | [22. 彌迦書](https://www.youtube.com/watch?v=olDmFPcHs6I) | 37:58 | 3/3/2022 | [Micah](https://www.youtube.com/watch?v=qhsA1DoYqBw) | 8/21/2021 |
 | 42 | [24. 西番雅書](https://www.youtube.com/watch?v=ifDRcEKNhTk) | 40:23 | | [Zephaniah](https://www.youtube.com/watch?v=S_NEUA55I_U) | 8/21/2021 |
 | 43 | [25. 哈巴谷書](https://www.youtube.com/watch?v=lAKk8ieKmho) | 35:33 | | [Habakkuk](https://www.youtube.com/watch?v=lGYkZtGoXvs) | 8/21/2021 |
 | 44 | [26. 耶利米書(一)](https://www.youtube.com/watch?v=GLvHAUqhKfI) | 38:18 | | [Jeremiah 1](https://www.youtube.com/watch?v=7ziUDeb9RWM) | 8/19/2021 |
