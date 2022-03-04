@@ -93,8 +93,8 @@
 | 39 | [21. 以賽亞書(一)](https://www.youtube.com/watch?v=1OerxbbwWNU) | 41:33 | 3/1/2022 | [Isaiah 1](https://www.youtube.com/watch?v=XqNzGrYbFWg) | 8/19/2021 |
 | 40 | [21. 以賽亞書(二)](https://www.youtube.com/watch?v=rNX6qcgZGDo) | 35:18 | 3/2/2022 | [Isaiah 2](https://www.youtube.com/watch?v=1VLLZ_6ZjiE) | 8/19/2021 |
 | 41 | [22. 彌迦書](https://www.youtube.com/watch?v=olDmFPcHs6I) | 37:58 | 3/3/2022 | [Micah](https://www.youtube.com/watch?v=qhsA1DoYqBw) | 8/21/2021 |
-| 42 | [24. 西番雅書](https://www.youtube.com/watch?v=ifDRcEKNhTk) | 40:23 | | [Zephaniah](https://www.youtube.com/watch?v=S_NEUA55I_U) | 8/21/2021 |
-| 43 | [25. 哈巴谷書](https://www.youtube.com/watch?v=lAKk8ieKmho) | 35:33 | | [Habakkuk](https://www.youtube.com/watch?v=lGYkZtGoXvs) | 8/21/2021 |
+| 42 | [24. 西番雅書](https://www.youtube.com/watch?v=ifDRcEKNhTk) | 40:23 | 3/4/2022 | [Zephaniah](https://www.youtube.com/watch?v=S_NEUA55I_U) | 8/21/2021 |
+| 43 | [25. 哈巴谷書](https://www.youtube.com/watch?v=lAKk8ieKmho) | 35:33 | 3/4/2022 | [Habakkuk](https://www.youtube.com/watch?v=lGYkZtGoXvs) | 8/21/2021 |
 | 44 | [26. 耶利米書(一)](https://www.youtube.com/watch?v=GLvHAUqhKfI) | 38:18 | | [Jeremiah 1](https://www.youtube.com/watch?v=7ziUDeb9RWM) | 8/19/2021 |
 | 45 | [26. 耶利米書(二)](https://www.youtube.com/watch?v=qBr3oFKM1CA) | 38:03 | | [Jeremiah 2](https://www.youtube.com/watch?v=IezUHoqpRcY) | 8/19/2021 |
 | 46 | [26. 耶利米哀歌](https://www.youtube.com/watch?v=1M0viFjTNhs) | 38:28 | | [Lamentations](https://www.youtube.com/watch?v=eD4ruTpZ0qk) | 8/19/2021 |
