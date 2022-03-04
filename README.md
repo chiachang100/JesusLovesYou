@@ -41,7 +41,7 @@
 ## 大衛鮑森舊約縱覽： 通往真理的金鑰
 - (中文版) [大衛鮑森講座~舊約縱覽 @YouTube 播放列表](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08O-lWINo2CowDGHw3jBA6x)
 - (英文版) [Unlocking the Old Testament by David Pawson @YouTube Playlist](https://www.youtube.com/playlist?list=PLfk5IZQHKovKhMVo9ekMLvZk8vFV9RJvC).
-- (英文及中文講義) [大衛鮑森舊約縱覽 全部英文及中文講義 (PDF)](https://davidpawson.storage.sardius.media/file/davidpawson/Pawson/Notes/Chinese_David_Pawson_Unlocking_the_Bible_OT_Notes_Part_1.pdf).
+- (英文及中文講義) 大衛鮑森舊約縱覽 全部英文及中文講義 (PDF) [Part1](https://davidpawson.storage.sardius.media/file/davidpawson/Pawson/Notes/Chinese_David_Pawson_Unlocking_the_Bible_OT_Notes_Part_1.pdf) & [Part 2](http://davidpawson.storage.sardius.media/file/davidpawson/Pawson/Notes/Chinese_David_Pawson_Unlocking_the_Bible_OT_Notes_Part_2.pdf).
 
 | 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期(中文) | 個別主題(英文) | 觀賞日期(英文) |
 |:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
