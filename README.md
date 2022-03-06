@@ -100,8 +100,8 @@
 | 46 | [26. 耶利米哀歌](https://www.youtube.com/watch?v=1M0viFjTNhs) | 38:28 | 3/5/2022 | [Lamentations](https://www.youtube.com/watch?v=eD4ruTpZ0qk) | 8/19/2021 |
 | - | - | - | - | - | - |
 | V | **奮鬥求生存** | - | - | T**HE STRUGGLE TO SURVIVE** | - |
-| 47 | [28. 以西結書(一)](https://www.youtube.com/watch?v=0495AQXT6pc) | 35:28 | | [Ezekiel 1](https://www.youtube.com/watch?v=xTzc8FoA4i0) | 8/19/2021 |
-| 48 | [28. 以西結書(二)](https://www.youtube.com/watch?v=LNcuunNZoyQ) | 40:08 | | [Ezekiel 2](https://www.youtube.com/watch?v=kciYe1lIYvs) | 8/19/2021 |
+| 47 | [28. 以西結書(一)](https://www.youtube.com/watch?v=0495AQXT6pc) | 35:28 | 3/6/2022 | [Ezekiel 1](https://www.youtube.com/watch?v=xTzc8FoA4i0) | 8/19/2021 |
+| 48 | [28. 以西結書(二)](https://www.youtube.com/watch?v=LNcuunNZoyQ) | 40:08 | 3/6/2022 | [Ezekiel 2](https://www.youtube.com/watch?v=kciYe1lIYvs) | 8/19/2021 |
 | 49 | [28. 以西結書(三)](https://www.youtube.com/watch?v=Cv675u4y8Wc) | 39:28 | | [Ezekiel 3](https://www.youtube.com/watch?v=Q7oE5xET8P8) | 8/19/2021 |
 | 50 | [29. 但以理書(一)](https://www.youtube.com/watch?v=cabJrRVBt7E) | 36:33 | | [Daniel 1](https://www.youtube.com/watch?v=Rln-zNby09U) | 8/20/2021 |
 | 51 | [29. 但以理書(二)](https://www.youtube.com/watch?v=V2i-wttUcXE) | 39:53 | | [Daniel 2](https://www.youtube.com/watch?v=jMHt0qjS6OI) | 8/20/2021 |
