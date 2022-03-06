@@ -97,7 +97,7 @@
 | 43 | [25. 哈巴谷書](https://www.youtube.com/watch?v=lAKk8ieKmho) | 35:33 | 3/4/2022 | [Habakkuk](https://www.youtube.com/watch?v=lGYkZtGoXvs) | 8/21/2021 |
 | 44 | [26. 耶利米書(一)](https://www.youtube.com/watch?v=GLvHAUqhKfI) | 38:18 | 3/5/2022 | [Jeremiah 1](https://www.youtube.com/watch?v=7ziUDeb9RWM) | 8/19/2021 |
 | 45 | [26. 耶利米書(二)](https://www.youtube.com/watch?v=qBr3oFKM1CA) | 38:03 | 3/5/2022 | [Jeremiah 2](https://www.youtube.com/watch?v=IezUHoqpRcY) | 8/19/2021 |
-| 46 | [26. 耶利米哀歌](https://www.youtube.com/watch?v=1M0viFjTNhs) | 38:28 | | [Lamentations](https://www.youtube.com/watch?v=eD4ruTpZ0qk) | 8/19/2021 |
+| 46 | [26. 耶利米哀歌](https://www.youtube.com/watch?v=1M0viFjTNhs) | 38:28 | 3/5/2022 | [Lamentations](https://www.youtube.com/watch?v=eD4ruTpZ0qk) | 8/19/2021 |
 | - | - | - | - | - | - |
 | V | **奮鬥求生存** | - | - | T**HE STRUGGLE TO SURVIVE** | - |
 | 47 | [28. 以西結書(一)](https://www.youtube.com/watch?v=0495AQXT6pc) | 35:28 | | [Ezekiel 1](https://www.youtube.com/watch?v=xTzc8FoA4i0) | 8/19/2021 |
