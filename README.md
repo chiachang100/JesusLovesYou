@@ -104,7 +104,7 @@
 | 48 | [28. 以西結書(二)](https://www.youtube.com/watch?v=LNcuunNZoyQ) | 40:08 | 3/6/2022 | [Ezekiel 2](https://www.youtube.com/watch?v=kciYe1lIYvs) | 8/19/2021 |
 | 49 | [28. 以西結書(三)](https://www.youtube.com/watch?v=Cv675u4y8Wc) | 39:28 | 3/6/2022 | [Ezekiel 3](https://www.youtube.com/watch?v=Q7oE5xET8P8) | 8/19/2021 |
 | 50 | [29. 但以理書(一)](https://www.youtube.com/watch?v=cabJrRVBt7E) | 36:33 | 3/6/2022 | [Daniel 1](https://www.youtube.com/watch?v=Rln-zNby09U) | 8/20/2021 |
-| 51 | [29. 但以理書(二)](https://www.youtube.com/watch?v=V2i-wttUcXE) | 39:53 | | [Daniel 2](https://www.youtube.com/watch?v=jMHt0qjS6OI) | 8/20/2021 |
+| 51 | [29. 但以理書(二)](https://www.youtube.com/watch?v=V2i-wttUcXE) | 39:53 | 3/7/2022 | [Daniel 2](https://www.youtube.com/watch?v=jMHt0qjS6OI) | 8/20/2021 |
 | 52 | [30. 以斯帖記](https://www.youtube.com/watch?v=YpBGW86YsYA) | 38:33 | 2/19/2022 | [Esther](https://www.youtube.com/watch?v=_skPXjv4XZY) | 8/18/2021 |
 | 53 | [31. 以斯拉記和尼希米記(一)](https://www.youtube.com/watch?v=9544sNFMFvc) | 33:53 | 2/18/2022 | [Ezra and Nehemiah 1](https://www.youtube.com/watch?v=JS-c9qS8uA8) | 8/17/2021 |
 | 54 | [31. 以斯拉記和尼希米記(二)](https://www.youtube.com/watch?v=u3q5lSAwsSI) | 31:27 | 2/19/2022 | [Ezra and Nehemiah 2](https://www.youtube.com/watch?v=9q0vg9-p-8E) | 8/17/2021 |
