@@ -110,10 +110,10 @@
 | 54 | [31. 以斯拉記和尼希米記(二)](https://www.youtube.com/watch?v=u3q5lSAwsSI) | 31:27 | 2/19/2022 | [Ezra and Nehemiah 2](https://www.youtube.com/watch?v=9q0vg9-p-8E) | 8/17/2021 |
 | 55 | [32. 歷代志上下](https://www.youtube.com/watch?v=tDiYsWoBj2M) | 41:28 | 2/17/2022 | [1 & 2 Chronicles](https://www.youtube.com/watch?v=N-Y6TBUWoc0) | 8/17/2021 |
 | 56 | [33. 哈該書](https://www.youtube.com/watch?v=Elaivs_ArAo) | 33:18 | 3/9/2022 | [Haggai](https://www.youtube.com/watch?v=nRrTR2XVwLQ) | 8/21/2021 |
-| 57 | [34. 撒迦利亞書(一)](https://www.youtube.com/watch?v=aThMU_IBQbw) | 44:13 | | [Zechariah 1](https://www.youtube.com/watch?v=QjWIXNOXOrg) | 8/21/2021 |
-| 58 | [34. 撒迦利亞書(二)](https://www.youtube.com/watch?v=i8ll33d2Tmg) | 44:28 | | [Zechariah 2](https://www.youtube.com/watch?v=MVfylfuesZU) | 8/21/2021 |
-| 59 | [35. 瑪拉基書(一)](https://www.youtube.com/watch?v=qrwBNpCajeM) | 29:17 | | [Malachi 1](https://www.youtube.com/watch?v=csz6N5ZByJQ) | 8/21/2021 |
-| 60 | [35. 瑪拉基書(二)](https://www.youtube.com/watch?v=VwlaqEewS2Q) | 28:22 | | [Malachi 2](https://www.youtube.com/watch?v=bUJxoINZW2Q) | 8/21/2021 |
+| 57 | [34. 撒迦利亞書(一)](https://www.youtube.com/watch?v=aThMU_IBQbw) | 44:13 | 3/10/2022 | [Zechariah 1](https://www.youtube.com/watch?v=QjWIXNOXOrg) | 8/21/2021 |
+| 58 | [34. 撒迦利亞書(二)](https://www.youtube.com/watch?v=i8ll33d2Tmg) | 44:28 | 3/10/2022 | [Zechariah 2](https://www.youtube.com/watch?v=MVfylfuesZU) | 8/21/2021 |
+| 59 | [35. 瑪拉基書(一)](https://www.youtube.com/watch?v=qrwBNpCajeM) | 29:17 | 3/10/2022 | [Malachi 1](https://www.youtube.com/watch?v=csz6N5ZByJQ) | 8/21/2021 |
+| 60 | [35. 瑪拉基書(二)](https://www.youtube.com/watch?v=VwlaqEewS2Q) | 28:22 | 3/10/2022 | [Malachi 2](https://www.youtube.com/watch?v=bUJxoINZW2Q) | 8/21/2021 |
 | - | **全部時間** | **38:18:33** | - | - | - |
 
 ---
