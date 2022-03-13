@@ -1,4 +1,4 @@
-# 耶穌愛你 (Jesus Loves You)
+# 耶穌愛你 (Jesus Loves You) - "活在基督裡 (Live In Christ)"
 
 許多人十分渴慕認識神的話語。因此讓我們一起觀賞大衛鮑森的"舊約及新約縱覽：通往真理的金鑰" (Unlocking The Bible: Old and New Testament)和研讀聖經渴慕認識神的話語。
 
