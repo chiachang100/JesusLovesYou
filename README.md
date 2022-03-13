@@ -144,7 +144,7 @@
 | 15 | [11. 加拉太書(二)](https://www.youtube.com/watch?v=RTNpTwXHmsk) | 37:03 | 2/12/2022 | [Galatians 2](https://www.youtube.com/watch?v=wlAcBE-3BlQ) | 6/27/2021 |
 | 16 | [12. 羅馬書(一)](https://www.youtube.com/watch?v=Z19mdGQEdEc) | 37:38 | 1/9/2022 | [Romans 1](https://www.youtube.com/watch?v=OpXQbCnMWgA) | 6/24/2021 |
 | 17 | [12. 羅馬書(二)](https://www.youtube.com/watch?v=6fIsZbZPKP8) | 40:38 | 1/9/2022 | [Romans 2](https://www.youtube.com/watch?v=TiCXzATXLmo) | 6/25/2021 |
-| 18 | [1.3 歌羅西書](https://www.youtube.com/watch?v=RvBCaefXOyM) | 40:58 | | [Colossians](https://www.youtube.com/watch?v=2XCX__pCeOI) | 6/28/2021 |
+| 18 | [13. 歌羅西書](https://www.youtube.com/watch?v=RvBCaefXOyM) | 40:58 | 3/12/2022 | [Colossians](https://www.youtube.com/watch?v=2XCX__pCeOI) | 6/28/2021 |
 | 19 | [14. 以弗所書](https://www.youtube.com/watch?v=b1vUmhxDUBg) | 40:53 | | [Ephesians](https://www.youtube.com/watch?v=lq7mT9Vo9Ls) | 6/27/2021 |
 | 20 | [15.&16. 腓立比書&腓利門書(一)](https://www.youtube.com/watch?v=HXs1ZFGbbik) | 42:38 | | [Philippians & Philemon 1](https://www.youtube.com/watch?v=OEMr3lNzMDs) | 6/28/2021 |
 | 21 | [15.&16. 腓立比書&腓利門書(二)](https://www.youtube.com/watch?v=rJ76IPBMrmY) | 36:08 | | [Philippians & Philemon 2](https://www.youtube.com/watch?v=uj6VvtIQBIU) | 6/28/2021 |
