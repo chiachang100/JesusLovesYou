@@ -18,6 +18,7 @@
   - [Bible Gateway](https://www.biblegateway.com/)
   - [YouVersion](https://www.youversion.com/)
   - [GOOD TV 好消息電視台](https://www.goodtv.tv/)
+  - [大衛鮑森國際中文頻道, GOOD TV](https://www.youtube.com/user/goodtvdavidpawson/playlists)
   - [RIVER OF LIFE CHRISTIAN CHURCH 矽谷生命河靈糧堂](https://rolcc.net/rolcc2/)
 
 - 書籍
