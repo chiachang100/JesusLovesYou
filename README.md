@@ -171,12 +171,14 @@
 | - | **全部時間** | **25:14:42** | - | - | - |
 
 ---
-## 大衛鮑森牧師善道傳承 - 大衛鮑森國際中文頻道 GOODTV
-- [善道傳承（一）我的講道史](https://www.youtube.com/watch?v=hSHmd12GzFI)
-  - 大衛鮑森牧師簡單回顧他的講道史，約略分成幾個階段：一、見證式講道。二、經節式講道。三、主題式講道。四、段落式講道。五、負擔式講道。六、逐卷式講道。七、情境式講道，把神的話放入生活情境，講整本聖經。
-- [善道傳承（二）如何預備講章（上）](https://www.youtube.com/watch?v=xyRq0jg_BhQ)
-- [善道傳承（三）如何預備講章（下）](https://www.youtube.com/watch?v=jTxlWgHLU64)
-- [善道傳承（四）情境式講道](https://www.youtube.com/watch?v=encpP_Ptc8A)
-- [善道傳承（五）講道的實際層面](https://www.youtube.com/watch?v=nPpf63sFJoc)
+## [大衛鮑森講座, 大衛鮑森國際中文頻道, GOOD TV](https://www.youtube.com/user/goodtvdavidpawson)
+  - [善道傳承](https://www.youtube.com/playlist?list=PLZfkFcz5Qd09ELni_Z4rBhGnqWiVilUND)
+    - 1. 我的講道史. 2. 如何預備講章（上）. 3. 如何預備講章（下）. 4. 情境式講道. 5. 講道的實際層面.
+  - [靈恩派與福音派](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08auNn6Z_g3y8_RKoSq4gwF)
+    - 1. 靈恩派的特點. 2. 檢視福音派. 3. 神學和聖經. 4. 信主的步驟和方言. 5. 事奉和敬拜／聖潔與合一.
+  - [耶穌給教會的七封信](https://www.youtube.com/playlist?list=PLZfkFcz5Qd0-ThR8Rt-sEFvFhVpNJDK9g)
+    - 1. 耶穌給教會的七封信. 2. 以弗所教會. 3. 士每拿教會. 4. 別迦摩教會. 5. 推雅撒喇教會. 6. 撒狄教會. 7. 非拉鐵非教會. 8. 老底嘉教會. 9. 將來的患難與得勝.
+  - [特會講座](https://www.youtube.com/playlist?list=PLZfkFcz5Qd0-jrRyg9vbBeMDm3F3A7a7D)
+    - 1. 認識三一真神（上）. 2. 認識三一真神（下）. 3. 神的恩典. 4. 神的公義. 5. 神的憐憫.
 
 ---
