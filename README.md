@@ -154,7 +154,7 @@
 | - | - | - | - | - | - |
 | III | **從苦難到榮耀** | - | - | **THROUGH SUFFERING TO GLORY** | - |
 | 24 | [18. 希伯來書(一)](https://www.youtube.com/watch?v=izDPy8eyCRY) | 42:08 | 3/16/2022 | [Hebrews 1](https://www.youtube.com/watch?v=kmUXH0_rQuQ) | 7/5/2021 |
-| 25 | [18. 希伯來書(二)](https://www.youtube.com/watch?v=jovJ_eFxF7k) | 39:48 | | [Hebrews 2](https://www.youtube.com/watch?v=NrW4pWjUzRQ) | 7/14/2021 |
+| 25 | [18. 希伯來書(二)](https://www.youtube.com/watch?v=jovJ_eFxF7k) | 39:48 | 3/16/2022 | [Hebrews 2](https://www.youtube.com/watch?v=NrW4pWjUzRQ) | 7/14/2021 |
 | 26 | [19. 雅各書(一)](https://www.youtube.com/watch?v=19i03hKUwDo) | 37:33 | | [James 1](https://www.youtube.com/watch?v=hQjB5nttZLw) | 7/14/2021 |
 | 27 | [19. 雅各書(二)](https://www.youtube.com/watch?v=mg25DDuL8Ig) | 38:48 | | [James 2](https://www.youtube.com/watch?v=AcMqdZ564rk) | 7/14/2021 |
 | 28 | [20. 彼得前後書(一)](https://www.youtube.com/watch?v=ki-ZtfPge98) | 38:33 | | [1 & 2 Peter 1](https://www.youtube.com/watch?v=d8dBDPa9uvQ) | 7/14/2021 |
