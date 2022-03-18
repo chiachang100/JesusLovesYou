@@ -1,9 +1,11 @@
-# 耶穌愛你 (Jesus Loves You) - "活在基督裡 (Live In Christ)"
+# 通往真理的金鑰: 舊約及新約縱覽 (Unlocking The Bible: Old and New Testament)
 
-許多人十分渴慕認識神的話語。因此讓我們一起觀賞大衛鮑森的"舊約及新約縱覽：通往真理的金鑰" (Unlocking The Bible: Old and New Testament)和研讀聖經渴慕認識神的話語。
+> 耶穌愛你 (Jesus Loves You)
+> "活在基督裡 (Live In Christ)"
 
-### 提示：
->>> "當我們要開始一卷書時，有必要先瀏覽介紹該卷書的引言， 其中應涵蓋最基本的問題：這卷書是什麼類型？何時寫的？誰寫的？為誰而寫的？最重要的，為什麼要寫這卷書？這些問題的答案就是解開其信息的 **「鑰匙」**  - "新舊約縱覽：通往真理的金鑰", 大衛鮑森著 ([Unlocking The Bible: A Unique Overview of the Whole Bible by David Pawson](https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/))。
+> 許多人十分渴慕認識神的話語。因此讓我們一起觀賞大衛鮑森的"舊約及新約縱覽：通往真理的金鑰" (Unlocking The Bible: Old and New Testament), 研讀聖經和渴慕認識神的話語。
+
+> "當我們要開始一卷書時，有必要先瀏覽介紹該卷書的引言， 其中應涵蓋最基本的問題：這卷書是什麼類型？何時寫的？誰寫的？為誰而寫的？最重要的，為什麼要寫這卷書？這些問題的答案就是解開其信息的 **「鑰匙」**  - "新舊約縱覽：通往真理的金鑰", 大衛鮑森著 ([Unlocking The Bible: A Unique Overview of the Whole Bible by David Pawson](https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/))。
 
 ---
 ## 資料來源
@@ -155,7 +157,7 @@
 | III | **從苦難到榮耀** | - | - | **THROUGH SUFFERING TO GLORY** | - |
 | 24 | [18. 希伯來書(一)](https://www.youtube.com/watch?v=izDPy8eyCRY) | 42:08 | 3/16/2022 | [Hebrews 1](https://www.youtube.com/watch?v=kmUXH0_rQuQ) | 7/5/2021 |
 | 25 | [18. 希伯來書(二)](https://www.youtube.com/watch?v=jovJ_eFxF7k) | 39:48 | 3/16/2022 | [Hebrews 2](https://www.youtube.com/watch?v=NrW4pWjUzRQ) | 7/14/2021 |
-| 26 | [19. 雅各書(一)](https://www.youtube.com/watch?v=19i03hKUwDo) | 37:33 | | [James 1](https://www.youtube.com/watch?v=hQjB5nttZLw) | 7/14/2021 |
+| 26 | [19. 雅各書(一)](https://www.youtube.com/watch?v=19i03hKUwDo) | 37:33 | 3/17/2022 | [James 1](https://www.youtube.com/watch?v=hQjB5nttZLw) | 7/14/2021 |
 | 27 | [19. 雅各書(二)](https://www.youtube.com/watch?v=mg25DDuL8Ig) | 38:48 | | [James 2](https://www.youtube.com/watch?v=AcMqdZ564rk) | 7/14/2021 |
 | 28 | [20. 彼得前後書(一)](https://www.youtube.com/watch?v=ki-ZtfPge98) | 38:33 | | [1 & 2 Peter 1](https://www.youtube.com/watch?v=d8dBDPa9uvQ) | 7/14/2021 |
 | 29 | [20. 彼得前後書(二)](https://www.youtube.com/watch?v=d6P9ta47HFw) | 39:43 | | [1 & 2 Peter 2](https://www.youtube.com/watch?v=qJyTe0NZNVY) | 7/14/2021 |
