@@ -160,10 +160,10 @@
 | 26 | [19. 雅各書(一)](https://www.youtube.com/watch?v=19i03hKUwDo) | 37:33 | 3/17/2022 | [James 1](https://www.youtube.com/watch?v=hQjB5nttZLw) | 7/14/2021 |
 | 27 | [19. 雅各書(二)](https://www.youtube.com/watch?v=mg25DDuL8Ig) | 38:48 | 3/19/2022 | [James 2](https://www.youtube.com/watch?v=AcMqdZ564rk) | 7/14/2021 |
 | 28 | [20. 彼得前後書(一)](https://www.youtube.com/watch?v=ki-ZtfPge98) | 38:33 | 3/19/2022 | [1 & 2 Peter 1](https://www.youtube.com/watch?v=d8dBDPa9uvQ) | 7/14/2021 |
-| 29 | [20. 彼得前後書(二)](https://www.youtube.com/watch?v=d6P9ta47HFw) | 39:43 | | [1 & 2 Peter 2](https://www.youtube.com/watch?v=qJyTe0NZNVY) | 7/14/2021 |
-| 30 | [21. 猶大書](https://www.youtube.com/watch?v=8uE7HmpCoQg) | 39:38 | | [Jude](https://www.youtube.com/watch?v=5iyll9XfNKA) | 7/19/2021 |
-| 31 | [22. 約翰一二三書(一)](https://www.youtube.com/watch?v=zdCcEemgM9k) | 40:43 | | [Letters of John 1](https://www.youtube.com/watch?v=5jPlZjNwZhM) | 7/14/2021 |
-| 32 | [22. 約翰一二三書(二)](https://www.youtube.com/watch?v=o2vDoUNlemw) | 36:23 | | [Letters of John 2](https://www.youtube.com/watch?v=PtNC9c4jTBM) | 7/19/2021 |
+| 29 | [20. 彼得前後書(二)](https://www.youtube.com/watch?v=d6P9ta47HFw) | 39:43 | 3/20/2022 | [1 & 2 Peter 2](https://www.youtube.com/watch?v=qJyTe0NZNVY) | 7/14/2021 |
+| 30 | [21. 猶大書](https://www.youtube.com/watch?v=8uE7HmpCoQg) | 39:38 | 3/20/2022 | [Jude](https://www.youtube.com/watch?v=5iyll9XfNKA) | 7/19/2021 |
+| 31 | [22. 約翰一二三書(一)](https://www.youtube.com/watch?v=zdCcEemgM9k) | 40:43 | 3/20/2022 | [Letters of John 1](https://www.youtube.com/watch?v=5jPlZjNwZhM) | 7/14/2021 |
+| 32 | [22. 約翰一二三書(二)](https://www.youtube.com/watch?v=o2vDoUNlemw) | 36:23 | 3/20/2022 | [Letters of John 2](https://www.youtube.com/watch?v=PtNC9c4jTBM) | 7/19/2021 |
 | 33 | [23. 啟示錄(一) 啟示錄之謎](https://www.youtube.com/watch?v=5FKwCU4pxeI) | 37:38 | | [Revelation Talk 1 The Revelation Riddle](https://www.youtube.com/watch?v=nX0eQgmoouc) | 7/19/2021 |
 | 34 | [23. 啟示錄(二) 升天的主](https://www.youtube.com/watch?v=umhIBr1HY5g) | 40:58 | | [Revelation Talk 2 The Ascended Lord](https://www.youtube.com/watch?v=C6OSefErEZo) | 7/21/2021 |
 | 35 | [23. 啟示錄(三) 大患難](https://www.youtube.com/watch?v=cZf8kVaasdI) | 41:03 | | [Revelation Talk 3 The Big Trouble](https://www.youtube.com/watch?v=1D7WoTS5vkU) | 7/21/2021 |
