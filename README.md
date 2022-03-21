@@ -184,5 +184,8 @@
   1. 耶穌給教會的七封信. 2. 以弗所教會. 3. 士每拿教會. 4. 別迦摩教會. 5. 推雅撒喇教會. 6. 撒狄教會. 7. 非拉鐵非教會. 8. 老底嘉教會. 9. 將來的患難與得勝.
   - [特會講座](https://www.youtube.com/playlist?list=PLZfkFcz5Qd0-jrRyg9vbBeMDm3F3A7a7D)
   1. 認識三一真神（上）. 2. 認識三一真神（下）. 3. 神的恩典. 4. 神的公義. 5. 神的憐憫.
+  - [合神心意的男人](https://www.youtube.com/playlist?list=PLZfkFcz5Qd0_E_LEH2WcmImcoxRccbd0u)
+  1. 男人歸主. 2. 男女差異. 3. 男女的位分. 4. 工作即服事. 5. 與主一同作王. 6. 培訓門徒.
+---
 
 ---
