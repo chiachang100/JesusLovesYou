@@ -5,7 +5,9 @@
 
 > 許多人十分渴慕認識神的話語。因此讓我們一起觀賞大衛鮑森的"舊約及新約縱覽：通往真理的金鑰" (Unlocking The Bible: Old and New Testament), 研讀聖經和渴慕認識神的話語。
 
-> "當我們要開始一卷書時，有必要先瀏覽介紹該卷書的引言， 其中應涵蓋最基本的問題：這卷書是什麼類型？何時寫的？誰寫的？為誰而寫的？最重要的，為什麼要寫這卷書？這些問題的答案就是解開其信息的 **「鑰匙」**  - "新舊約縱覽：通往真理的金鑰", 大衛鮑森著 ([Unlocking The Bible: A Unique Overview of the Whole Bible by David Pawson](https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/))。
+> "當我們要開始一卷書時，有必要先瀏覽介紹該卷書的引言， 其中應涵蓋最基本的問題：這卷書是什麼類型？何時寫的？誰寫的？為誰而寫的？最重要的，為什麼要寫這卷書？這些問題的答案就是解開其信息的 **「鑰匙」**"
+
+> "最後, 我希望這些聖經書卷的縱覽能幫助你更加認識神的話, 愛慕神的話, 但在這期待的背後還有更大更深的渴望, 就是你也能更認識, 更深愛所有書卷的主旨--神自己。 ... 當你展讀這套書時, 願你能和我一同說: 「讚美歸與聖父, 聖子和聖靈!」 - 大衛鮑森, 2008. "新舊約縱覽：通往真理的金鑰", 大衛鮑森著 ([Unlocking The Bible: A Unique Overview of the Whole Bible by David Pawson](https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/))。
 
 ---
 ## 資料來源
