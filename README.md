@@ -12,8 +12,8 @@
 ---
 ## 資料來源
 - 視頻
-  - (中文版) [大衛鮑森講座~舊約縱覽 @YouTube 播放列表](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08O-lWINo2CowDGHw3jBA6x). (GOOD TV)
-  - (中文版) [大衛鮑森講座~新約縱覽 @YouTube 播放列表](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08819jIw0Vo3q_ob7-dumbW). (GOOD TV)
+  - (中文版) [大衛鮑森講座~舊約縱覽 @YouTube 播放列表](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08O-lWINo2CowDGHw3jBA6x). (GOOD TV 大衛鮑森國際中文頻道)
+  - (中文版) [大衛鮑森講座~新約縱覽 @YouTube 播放列表](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08819jIw0Vo3q_ob7-dumbW). (GOOD TV 大衛鮑森國際中文頻道)
   - (英文版) [Unlocking the Old Testament by David Pawson @YouTube Playlist](https://www.youtube.com/playlist?list=PLfk5IZQHKovKhMVo9ekMLvZk8vFV9RJvC). (David Pawson - Official)
   - (英文版) [Unlocking the New Testament by David Pawson @YouTube Playlist](https://www.youtube.com/playlist?list=PLfk5IZQHKovK_7RzISco4nVgMvt0bqFUZ). (David Pawson - Official)
 
@@ -22,7 +22,7 @@
   - [Bible Gateway](https://www.biblegateway.com/)
   - [YouVersion](https://www.youversion.com/)
   - [GOOD TV 好消息電視台](https://www.goodtv.tv/)
-  - [大衛鮑森國際中文頻道, GOOD TV](https://www.youtube.com/user/goodtvdavidpawson/playlists)
+  - [Good TV 大衛鮑森國際中文頻道](https://www.youtube.com/user/goodtvdavidpawson/playlists)
   - [RIVER OF LIFE CHRISTIAN CHURCH 矽谷生命河靈糧堂](https://rolcc.net/rolcc2/)
 
 - 書籍
@@ -44,7 +44,7 @@
 -->
 ---
 ## 大衛鮑森舊約縱覽： 通往真理的金鑰
-- (中文版) [大衛鮑森講座~舊約縱覽 @YouTube 播放列表](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08O-lWINo2CowDGHw3jBA6x). (GOOD TV)
+- (中文版) [大衛鮑森講座~舊約縱覽 @YouTube 播放列表](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08O-lWINo2CowDGHw3jBA6x). (GOOD TV 大衛鮑森國際中文頻道)
 - (英文版) [Unlocking the Old Testament by David Pawson @YouTube Playlist](https://www.youtube.com/playlist?list=PLfk5IZQHKovKhMVo9ekMLvZk8vFV9RJvC). (David Pawson - Official)
 - (英文及中文講義) 大衛鮑森舊約縱覽 全部英文及中文講義 (PDF) [Part1](https://davidpawson.storage.sardius.media/file/davidpawson/Pawson/Notes/Chinese_David_Pawson_Unlocking_the_Bible_OT_Notes_Part_1.pdf) & [Part 2](http://davidpawson.storage.sardius.media/file/davidpawson/Pawson/Notes/Chinese_David_Pawson_Unlocking_the_Bible_OT_Notes_Part_2.pdf).
 
@@ -123,7 +123,7 @@
 
 ---
 ## 大衛鮑森新約縱覽： 通往真理的金鑰
-- (中文版) [大衛鮑森講座~新約縱覽 @YouTube 播放列表](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08819jIw0Vo3q_ob7-dumbW). (GOOD TV)
+- (中文版) [大衛鮑森講座~新約縱覽 @YouTube 播放列表](https://www.youtube.com/playlist?list=PLZfkFcz5Qd08819jIw0Vo3q_ob7-dumbW). (GOOD TV 大衛鮑森國際中文頻道)
 - (英文版) [Unlocking the New Testament by David Pawson @YouTube Playlist](https://www.youtube.com/playlist?list=PLfk5IZQHKovK_7RzISco4nVgMvt0bqFUZ). (David Pawson - Official)
 - (英文及中文講義) [大衛鮑森新約縱覽 全部英文及中文講義 (PDF)](http://davidpawson.storage.sardius.media/file/davidpawson/Pawson/Notes/Chinese_David_Pawson_Unlocking_the_Bible_NT_Notes.pdf).
 
