@@ -170,8 +170,8 @@
 | 34 | [23. 啟示錄(二) 升天的主](https://www.youtube.com/watch?v=umhIBr1HY5g) | 40:58 | 3/22/2022 | [Revelation Talk 2 The Ascended Lord](https://www.youtube.com/watch?v=C6OSefErEZo) | 7/21/2021 |
 | 35 | [23. 啟示錄(三) 大患難](https://www.youtube.com/watch?v=cZf8kVaasdI) | 41:03 | 3/23/2022 | [Revelation Talk 3 The Big Trouble](https://www.youtube.com/watch?v=1D7WoTS5vkU) | 7/21/2021 |
 | 36 | [23. 啟示錄(四) 墮落的淫婦](https://www.youtube.com/watch?v=xZ6gRvFs_jo) | 35:08 | 3/24/2022 | [Revelation Talk 4 The Fallen Prostitute](https://www.youtube.com/watch?v=Gt9Tjj4_Wok) | 7/22/2021 |
-| 37 | [23. 啟示錄(五) 最後的千禧年](https://www.youtube.com/watch?v=MVwPr4EOELs) | 42:58 | 3/24/2022 | [Revelation Talk 5 The Last Millennium](https://www.youtube.com/watch?v=2ygj_W2JDMo) | 7/23/2021 |
-| 38 | [23. 啟示錄(六) 從天而降的新婦](https://www.youtube.com/watch?v=v0BpxF__-mk) | 37:58 | 3/24/2022 | [Revelation Talk 6 The Descending Bride](https://www.youtube.com/watch?v=lXVzL3bNoT8) | 7/23/2021 |
+| 37 | [23. 啟示錄(五) 最後的千禧年](https://www.youtube.com/watch?v=MVwPr4EOELs) | 42:58 | 3/25/2022 | [Revelation Talk 5 The Last Millennium](https://www.youtube.com/watch?v=2ygj_W2JDMo) | 7/23/2021 |
+| 38 | [23. 啟示錄(六) 從天而降的新婦](https://www.youtube.com/watch?v=v0BpxF__-mk) | 37:58 | 3/25/2022 | [Revelation Talk 6 The Descending Bride](https://www.youtube.com/watch?v=lXVzL3bNoT8) | 7/23/2021 |
 | - | **全部時間** | **25:14:42** | - | - | - |
 
 ---
