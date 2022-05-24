@@ -13,7 +13,7 @@
 
 | 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期(預計) | 觀賞時間(預計) | 記錄 |
 |:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| I | **創物主的指示** | - | - | **THE MAKER'S INSTRUCTIONS** | - |
+| I | **創物主的指示** | - | - | - | - |
 | 1 | [1. 舊約概論](https://www.youtube.com/watch?v=wi8b9jOYmK0) | 40:08 | 6/5/2022 | Sunday, 7:30 - 8:30 PM | - |
 | 2 | [2. 創世記(一) 聖經的基礎](https://www.youtube.com/watch?v=fizg-bxIjuY) | 40:03 | 6/12/2022 | Sunday, 7:30 - 8:30 PM | - |
 | 3 | [2. 創世記(二) 造物主和受造物](https://www.youtube.com/watch?v=jHKK66iKTng) | 38:28 | 6/19/2022 | Sunday, 7:30 - 8:30 PM | - |
@@ -30,7 +30,7 @@
 | 14 | [6. 申命記(一)](https://www.youtube.com/watch?v=WZw5MKJS_5Y) | 38:03 | - | Sunday, 7:30 - 8:30 PM | - |
 | 15 | [6. 申命記(二)](https://www.youtube.com/watch?v=_3f7Qhqdbs8) | 39:03 | - | Sunday, 7:30 - 8:30 PM | - |
 | - | - | - | - | - | - |
-| II | **土地與王國** | - | - | **A LAND AND A KINGDOM** | - |
+| II | **土地與王國** | - | - | - | - |
 | 16 | [7. 約書亞記(一)](https://www.youtube.com/watch?v=k3m_Nv_-rkU) | 38:53 | - | Sunday, 7:30 - 8:30 PM | - |
 | 17 | [7. 約書亞記(二)](https://www.youtube.com/watch?v=6VwGHuvN8yA) | 41:08 | - | Sunday, 7:30 - 8:30 PM | - |
 | 18 | [8. 士師記和路得記(一)](https://www.youtube.com/watch?v=Nv9rAoOdRDg) | 44:13 | - | Sunday, 7:30 - 8:30 PM | - |
@@ -40,7 +40,7 @@
 | 22 | [10. 列王紀上下(一)](https://www.youtube.com/watch?v=wixHQA0lfkU) | 37:28 | - | Sunday, 7:30 - 8:30 PM | - |
 | 23 | [10. 列王紀上下(二)](https://www.youtube.com/watch?v=sfA_bH8FO8Q) | 39:13 | - | Sunday, 7:30 - 8:30 PM | - |
 | - | - | - | - | - | - |
-| III | **敬拜與智慧之詩** | - | - | **POEMS OF WORSHIP AND WISDOM** | - |
+| III | **敬拜與智慧之詩** | - | - | - | - |
 | 24 | [11. 希伯來詩](https://www.youtube.com/watch?v=OUMGMY8121s) | 34:48 | - | Sunday, 7:30 - 8:30 PM | - |
 | 25 | [12. 詩篇(一)](https://www.youtube.com/watch?v=EoATnlIyBIE) | 40:23 | - | Sunday, 7:30 - 8:30 PM | - |
 | 26 | [12. 詩篇(二)](https://www.youtube.com/watch?v=VrX7zj8HzQk) | 42:23 | - | Sunday, 7:30 - 8:30 PM | - |
@@ -51,7 +51,7 @@
 | 31 | [16. 約伯記(一)](https://www.youtube.com/watch?v=UGaSYXN1sNQ) | 41:23 | - | Sunday, 7:30 - 8:30 PM | - |
 | 32 | [16. 約伯記(二)](https://www.youtube.com/watch?v=KiLBSOPrInA) | 41:38 | - | Sunday, 7:30 - 8:30 PM | - |
 | IV | - | - | - | - | - |
-| - | **帝國的衰敗與殞落** | - | - | **DECLINE AND FALL OF AN EMPIRE** | - |
+| - | **帝國的衰敗與殞落** | - | - | - | - |
 | 33 | [18. 約拿書](https://www.youtube.com/watch?v=VthQ-vloIDs) | 39:38 | - | Sunday, 7:30 - 8:30 PM | - |
 | 34 | [23. 那鴻書](https://www.youtube.com/watch?v=5mw-ri9r0JY) | 35:38 | - | Sunday, 7:30 - 8:30 PM | - |
 | 35 | [27. 俄巴底亞書和 19. 約珥書(一)](https://www.youtube.com/watch?v=8t0EgxboNic) | 39:13 | - | Sunday, 7:30 - 8:30 PM | - |
@@ -67,7 +67,7 @@
 | 45 | [26. 耶利米書(二)](https://www.youtube.com/watch?v=qBr3oFKM1CA) | 38:03 | - | Sunday, 7:30 - 8:30 PM | - |
 | 46 | [26. 耶利米哀歌](https://www.youtube.com/watch?v=1M0viFjTNhs) | 38:28 | - | Sunday, 7:30 - 8:30 PM | - |
 | - | - | - | - | - | - |
-| V | **奮鬥求生存** | - | - | T**HE STRUGGLE TO SURVIVE** | - |
+| V | **奮鬥求生存** | - | - | - | - |
 | 47 | [28. 以西結書(一)](https://www.youtube.com/watch?v=0495AQXT6pc) | 35:28 | - | Sunday, 7:30 - 8:30 PM | - |
 | 48 | [28. 以西結書(二)](https://www.youtube.com/watch?v=LNcuunNZoyQ) | 40:08 | - | Sunday, 7:30 - 8:30 PM | - |
 | 49 | [28. 以西結書(三)](https://www.youtube.com/watch?v=Cv675u4y8Wc) | 39:28 | - | Sunday, 7:30 - 8:30 PM | - |
@@ -92,7 +92,7 @@
 
 | 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期(預計) | 觀賞時間(預計) | 記錄 |
 |:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| I | **歷史樞紐** | - | - | **THE HINGE OF HISTORY** | - |
+| I | **歷史樞紐** | - | - | - | - |
 | 1 | [2. 馬可福音](https://www.youtube.com/watch?v=aQhDy7mMnL0) | 46:03 | - | Sunday, 7:30 - 8:30 PM | - |
 | 2 | [3. 馬太福音(一)](https://www.youtube.com/watch?v=mbNZAzDSWbo) | 36:48 | - | Sunday, 7:30 - 8:30 PM | - |
 | 3 | [3. 馬太福音(二)](https://www.youtube.com/watch?v=GVKvE77O04U) | 40:53 | - | Sunday, 7:30 - 8:30 PM | - |
@@ -102,7 +102,7 @@
 | 7 | [7. 約翰(一)](https://www.youtube.com/watch?v=FAhddBtQH9w) | 37:33 | - | Sunday, 7:30 - 8:30 PM | - |
 | 8 | [7. 約翰(二)](https://www.youtube.com/watch?v=Q_yb2YbIDmE) | 40:03 | - | Sunday, 7:30 - 8:30 PM | - |
 | - | - | - | - | - | - |
-| II | **第十三位使徒** | - | - | **THE THIRTEENTH APOSTLE** | - |
+| II | **第十三位使徒** | - | - | - | - |
 | 9 | [8. 保羅及保羅書信](https://www.youtube.com/watch?v=ge9w2JgX5kE) | 55:54 | - | Sunday, 7:30 - 8:30 PM | - |
 | 10 | [9. 帖撒羅尼迦前後書(一)](https://www.youtube.com/watch?v=DTTQOxAHxyQ) | 39:32 | - | Sunday, 7:30 - 8:30 PM | - |
 | 11 | [9. 帖撒羅尼迦前後書(二)](https://www.youtube.com/watch?v=qKgMyQL4s8o) | 39:08 | - | Sunday, 7:30 - 8:30 PM | - |
@@ -119,7 +119,7 @@
 | 22 | [17. 提摩太前後書&提多書(一)](https://www.youtube.com/watch?v=GFMCaItZBJA) | 40:03 | - | Sunday, 7:30 - 8:30 PM | - |
 | 23 | [17. 提摩太前後書&提多書(二)](https://www.youtube.com/watch?v=5T1GIaI4Z4Y) | 38:23 | - | Sunday, 7:30 - 8:30 PM | - |
 | - | - | - | - | - | - |
-| III | **從苦難到榮耀** | - | - | **THROUGH SUFFERING TO GLORY** | - |
+| III | **從苦難到榮耀** | - | - | - | - |
 | 24 | [18. 希伯來書(一)](https://www.youtube.com/watch?v=izDPy8eyCRY) | 42:08 | - | Sunday, 7:30 - 8:30 PM | - |
 | 25 | [18. 希伯來書(二)](https://www.youtube.com/watch?v=jovJ_eFxF7k) | 39:48 | - | Sunday, 7:30 - 8:30 PM | - |
 | 26 | [19. 雅各書(一)](https://www.youtube.com/watch?v=19i03hKUwDo) | 37:33 | - | Sunday, 7:30 - 8:30 PM | - |
