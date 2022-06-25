@@ -14,10 +14,10 @@
 | 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期(預計) | 觀賞時間(預計) | 記錄 |
 |:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | I | **創物主的指示** | - | - | - | - |
-| 1 | [1. 舊約概論](https://www.youtube.com/watch?v=wi8b9jOYmK0) | 40:08 | 6/5/2022 | Sunday, 7:30 - 8:30 PM | - |
-| 2 | [2. 創世記(一) 聖經的基礎](https://www.youtube.com/watch?v=fizg-bxIjuY) | 40:03 | 6/12/2022 | Sunday, 7:30 - 8:30 PM | - |
-| 3 | [2. 創世記(二) 造物主和受造物](https://www.youtube.com/watch?v=jHKK66iKTng) | 38:28 | 6/19/2022 | Sunday, 7:30 - 8:30 PM | - |
-| 4 | [2. 創世記(三) 生物與進化](https://www.youtube.com/watch?v=Cn9Bdd8NBJU) | 44:08 | 6/26/2022 | Sunday, 7:30 - 8:30 PM | - |
+| 1 | [1. 舊約概論](https://www.youtube.com/watch?v=wi8b9jOYmK0) | 40:08 | - | Sunday, 7:30 - 8:30 PM | - |
+| 2 | [2. 創世記(一) 聖經的基礎](https://www.youtube.com/watch?v=fizg-bxIjuY) | 40:03 | - | Sunday, 7:30 - 8:30 PM | - |
+| 3 | [2. 創世記(二) 造物主和受造物](https://www.youtube.com/watch?v=jHKK66iKTng) | 38:28 | - | Sunday, 7:30 - 8:30 PM | - |
+| 4 | [2. 創世記(三) 生物與進化](https://www.youtube.com/watch?v=Cn9Bdd8NBJU) | 44:08 | - | Sunday, 7:30 - 8:30 PM | - |
 | 5 | [2. 創世記(四) 從伊甸園到巴別塔](https://www.youtube.com/watch?v=Qrb-IILBckQ) | 40:23 | - | Sunday, 7:30 - 8:30 PM | - |
 | 6 | [2. 創世記(五) 亞伯拉罕、以撒和雅各](https://www.youtube.com/watch?v=h8Vc62vDw7o) | 40:03 | - | Sunday, 7:30 - 8:30 PM | - |
 | 7 | [2. 創世記(六) 約瑟和耶穌](https://www.youtube.com/watch?v=1uBub7OvYaY) | 36:48 | - | Sunday, 7:30 - 8:30 PM | - |
