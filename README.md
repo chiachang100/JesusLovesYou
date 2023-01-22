@@ -10,7 +10,7 @@
 - (英文版) [Unlocking the Old Testament by David Pawson @YouTube Playlist](https://www.youtube.com/playlist?list=PLfk5IZQHKovKhMVo9ekMLvZk8vFV9RJvC). (David Pawson - Official)
 - (英文及中文講義) 大衛鮑森舊約縱覽 全部英文及中文講義 (PDF) [Part1](https://davidpawson.storage.sardius.media/file/davidpawson/Pawson/Notes/Chinese_David_Pawson_Unlocking_the_Bible_OT_Notes_Part_1.pdf) & [Part 2](http://davidpawson.storage.sardius.media/file/davidpawson/Pawson/Notes/Chinese_David_Pawson_Unlocking_the_Bible_OT_Notes_Part_2.pdf).
 
-| 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期(預計) | 觀賞時間(預計) | 記錄 |
+| 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期 | 觀賞時間 | 記錄 |
 |:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | I | **創物主的指示** | - | - | - | - |
 | 1 | [1. 舊約概論](https://www.youtube.com/watch?v=wi8b9jOYmK0) | 40:08 | - | - | - |
@@ -89,7 +89,7 @@
 - (英文版) [Unlocking the New Testament by David Pawson @YouTube Playlist](https://www.youtube.com/playlist?list=PLfk5IZQHKovK_7RzISco4nVgMvt0bqFUZ). (David Pawson - Official)
 - (英文及中文講義) [大衛鮑森新約縱覽 全部英文及中文講義 (PDF)](http://davidpawson.storage.sardius.media/file/davidpawson/Pawson/Notes/Chinese_David_Pawson_Unlocking_the_Bible_NT_Notes.pdf).
 
-| 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期(預計) | 觀賞時間(預計) | 記錄 |
+| 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期 | 觀賞時間 | 記錄 |
 |:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | I | **歷史樞紐** | - | - | - | - |
 | 1 | [2. 馬可福音](https://www.youtube.com/watch?v=aQhDy7mMnL0) | 46:03 | - | - | - |
