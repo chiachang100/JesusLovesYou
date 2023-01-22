@@ -93,7 +93,7 @@
 |:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | I | **歷史樞紐** | - | - | - | - |
 | 1 | [2. 馬可福音](https://www.youtube.com/watch?v=aQhDy7mMnL0) | 46:03 | - | - | - |
-| 2 | [3. 馬太福音(一)](https://www.youtube.com/watch?v=mbNZAzDSWbo) | 36:48 | 1/21/2023 | 7:45 - 8:22 PM | - |
+| 2 | [3. 馬太福音(一)](https://www.youtube.com/watch?v=mbNZAzDSWbo) | 36:48 | - | - | - |
 | 3 | [3. 馬太福音(二)](https://www.youtube.com/watch?v=GVKvE77O04U) | 40:53 | - | - | - |
 | 4 | [4.&5. 路加福音](https://www.youtube.com/watch?v=h3jCFdngMvA) | 40:13 | - | - | - |
 | 5 | [4.&6. 使徒行傳(一)](https://www.youtube.com/watch?v=fbTT9dF0neY) | 40:23 | - | - | - |
