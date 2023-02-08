@@ -22,8 +22,8 @@
 | 8 | [出埃及記(一)](https://www.youtube.com/watch?v=jlHOgXhkEMo) | 40:13 | - | - | - |
 | 9 | [出埃及記(二)](https://www.youtube.com/watch?v=1N5OFuFiULc) | 40:23 | - | - | - |
 | 10 | [利未記(一)](https://www.youtube.com/watch?v=-BaVKUjYPdI) | 39:43 | - | - | - |
-| - | - | - | - | - | - |
 | 11 | [利未記(二)](https://www.youtube.com/watch?v=MYTuWVe4RBI) | 35:33 | - | - | - |
+| - | - | - | - | - | - |
 | 12 | [民數記(一)](https://www.youtube.com/watch?v=ANWKSkvFhLE) | 36:58 | - | - | - |
 | 13 | [民數記(二)](https://www.youtube.com/watch?v=7og8ry-LfU0) | 41:33 | - | - | - |
 | 14 | [申命記(一)](https://www.youtube.com/watch?v=WZw5MKJS_5Y) | 38:03 | - | - | - |
@@ -33,45 +33,45 @@
 | 18 | [士師記和路得記(一)](https://www.youtube.com/watch?v=Nv9rAoOdRDg) | 44:13 | - | - | - |
 | 19 | [士師記和路得記(二)](https://www.youtube.com/watch?v=eVjbrgGBzCI) | 37:13 | - | - | - |
 | 20 | [撒母耳記上下(一)](https://www.youtube.com/watch?v=QO6IzSoowFQ) | 40:18 | - | - | - |
-| - | - | - | - | - | - |
 | 21 | [撒母耳記上下(二)](https://www.youtube.com/watch?v=Kws-E0Pf-m0) | 37:38 | - | - | - |
+| - | - | - | - | - | - |
 | 22 | [列王紀上下(一)](https://www.youtube.com/watch?v=wixHQA0lfkU) | 37:28 | - | - | - |
 | 23 | [列王紀上下(二)](https://www.youtube.com/watch?v=sfA_bH8FO8Q) | 39:13 | - | - | - |
-| 24 | [希伯來詩](https://www.youtube.com/watch?v=OUMGMY8121s) | 34:48 | - | - | - |
-| 25 | [詩篇(一)](https://www.youtube.com/watch?v=EoATnlIyBIE) | 40:23 | - | - | - |
-| 26 | [詩篇(二)](https://www.youtube.com/watch?v=VrX7zj8HzQk) | 42:23 | - | - | - |
-| 27 | [雅歌](https://www.youtube.com/watch?v=S_uSerwYiFY) | 38:33 | - | - | - |
-| 28 | [箴言(一)](https://www.youtube.com/watch?v=p4Zn9wZza4k) | 37:33 | - | - | - |
-| 29 | [箴言(二)](https://www.youtube.com/watch?v=6PbDZWcUBbY) | 32:53 | - | - | - |
-| 30 | [傳道書](https://www.youtube.com/watch?v=E4S-EcD1BgA) | 39:23 | - | - | - |
+| 24 | [歷代志上下](https://www.youtube.com/watch?v=tDiYsWoBj2M) | 41:28 | - | - | - |
+| 25 | [希伯來詩](https://www.youtube.com/watch?v=OUMGMY8121s) | 34:48 | - | - | - |
+| 26 | [詩篇(一)](https://www.youtube.com/watch?v=EoATnlIyBIE) | 40:23 | - | - | - |
+| 27 | [詩篇(二)](https://www.youtube.com/watch?v=VrX7zj8HzQk) | 42:23 | - | - | - |
+| 28 | [約伯記(一)](https://www.youtube.com/watch?v=UGaSYXN1sNQ) | 41:23 | - | - | - |
+| 29 | [約伯記(二)](https://www.youtube.com/watch?v=KiLBSOPrInA) | 41:38 | - | - | - |
+| 30 | [箴言(一)](https://www.youtube.com/watch?v=p4Zn9wZza4k) | 37:33 | - | - | - |
+| 31 | [箴言(二)](https://www.youtube.com/watch?v=6PbDZWcUBbY) | 32:53 | - | - | - |
 | - | - | - | - | - | - |
-| 31 | [約伯記(一)](https://www.youtube.com/watch?v=UGaSYXN1sNQ) | 41:23 | - | - | - |
-| 32 | [約伯記(二)](https://www.youtube.com/watch?v=KiLBSOPrInA) | 41:38 | - | - | - |
-| 33 | [約拿書](https://www.youtube.com/watch?v=VthQ-vloIDs) | 39:38 | - | - | - |
-| 34 | [那鴻書](https://www.youtube.com/watch?v=5mw-ri9r0JY) | 35:38 | - | - | - |
-| 35 | [俄巴底亞書和 19. 約珥書(一)](https://www.youtube.com/watch?v=8t0EgxboNic) | 39:13 | - | - | - |
-| 36 | [俄巴底亞書和 19. 約珥書(二)](https://www.youtube.com/watch?v=OqAHDU4j9H8) | 42:38 | - | - | - |
-| 37 | [阿摩司書](https://www.youtube.com/watch?v=ykN2_IMHyXs) | 39:43 | - | - | - |
-| 38 | [何西阿書](https://www.youtube.com/watch?v=VSreYRKicjY) | 34:28 | - | - | - |
-| 39 | [以賽亞書(一)](https://www.youtube.com/watch?v=1OerxbbwWNU) | 41:33 | - | - | - |
-| 40 | [以賽亞書(二)](https://www.youtube.com/watch?v=rNX6qcgZGDo) | 35:18 | - | - | - |
+| 32 | [雅歌](https://www.youtube.com/watch?v=S_uSerwYiFY) | 38:33 | - | - | - |
+| 33 | [傳道書](https://www.youtube.com/watch?v=E4S-EcD1BgA) | 39:23 | - | - | - |
+| 34 | [俄巴底亞書和 19. 約珥書(一)](https://www.youtube.com/watch?v=8t0EgxboNic) | 39:13 | - | - | - |
+| 35 | [俄巴底亞書和 19. 約珥書(二)](https://www.youtube.com/watch?v=OqAHDU4j9H8) | 42:38 | - | - | - |
+| 36 | [約拿書](https://www.youtube.com/watch?v=VthQ-vloIDs) | 39:38 | - | - | - |
+| 37 | [那鴻書](https://www.youtube.com/watch?v=5mw-ri9r0JY) | 35:38 | - | - | - |
+| 38 | [阿摩司書](https://www.youtube.com/watch?v=ykN2_IMHyXs) | 39:43 | - | - | - |
+| 39 | [何西阿書](https://www.youtube.com/watch?v=VSreYRKicjY) | 34:28 | - | - | - |
+| 40 | [彌迦書](https://www.youtube.com/watch?v=olDmFPcHs6I) | 37:58 | - | - | - |
 | - | - | - | - | - | - |
-| 41 | [彌迦書](https://www.youtube.com/watch?v=olDmFPcHs6I) | 37:58 | - | - | - |
-| 42 | [西番雅書](https://www.youtube.com/watch?v=ifDRcEKNhTk) | 40:23 | - | - | - |
-| 43 | [哈巴谷書](https://www.youtube.com/watch?v=lAKk8ieKmho) | 35:33 | - | - | - |
-| 44 | [耶利米書(一)](https://www.youtube.com/watch?v=GLvHAUqhKfI) | 38:18 | - | - | - |
-| 45 | [耶利米書(二)](https://www.youtube.com/watch?v=qBr3oFKM1CA) | 38:03 | - | - | - |
-| 46 | [耶利米哀歌](https://www.youtube.com/watch?v=1M0viFjTNhs) | 38:28 | - | - | - |
-| 47 | [以西結書(一)](https://www.youtube.com/watch?v=0495AQXT6pc) | 35:28 | - | - | - |
-| 48 | [以西結書(二)](https://www.youtube.com/watch?v=LNcuunNZoyQ) | 40:08 | - | - | - |
-| 49 | [以西結書(三)](https://www.youtube.com/watch?v=Cv675u4y8Wc) | 39:28 | - | - | - |
-| 50 | [但以理書(一)](https://www.youtube.com/watch?v=cabJrRVBt7E) | 36:33 | - | - | - |
+| 41 | [以賽亞書(一)](https://www.youtube.com/watch?v=1OerxbbwWNU) | 41:33 | - | - | - |
+| 42 | [以賽亞書(二)](https://www.youtube.com/watch?v=rNX6qcgZGDo) | 35:18 | - | - | - |
+| 43 | [西番雅書](https://www.youtube.com/watch?v=ifDRcEKNhTk) | 40:23 | - | - | - |
+| 44 | [哈巴谷書](https://www.youtube.com/watch?v=lAKk8ieKmho) | 35:33 | - | - | - |
+| 45 | [耶利米書(一)](https://www.youtube.com/watch?v=GLvHAUqhKfI) | 38:18 | - | - | - |
+| 46 | [耶利米書(二)](https://www.youtube.com/watch?v=qBr3oFKM1CA) | 38:03 | - | - | - |
+| 47 | [耶利米哀歌](https://www.youtube.com/watch?v=1M0viFjTNhs) | 38:28 | - | - | - |
+| 48 | [以西結書(一)](https://www.youtube.com/watch?v=0495AQXT6pc) | 35:28 | - | - | - |
+| 49 | [以西結書(二)](https://www.youtube.com/watch?v=LNcuunNZoyQ) | 40:08 | - | - | - |
+| 50 | [以西結書(三)](https://www.youtube.com/watch?v=Cv675u4y8Wc) | 39:28 | - | - | - |
 | - | - | - | - | - | - |
-| 51 | [但以理書(二)](https://www.youtube.com/watch?v=V2i-wttUcXE) | 39:53 | - | - | - |
-| 52 | [以斯帖記](https://www.youtube.com/watch?v=YpBGW86YsYA) | 38:33 | - | - | - |
-| 53 | [以斯拉記和尼希米記(一)](https://www.youtube.com/watch?v=9544sNFMFvc) | 33:53 | - | - | - |
-| 54 | [以斯拉記和尼希米記(二)](https://www.youtube.com/watch?v=u3q5lSAwsSI) | 31:27 | - | - | - |
-| 55 | [歷代志上下](https://www.youtube.com/watch?v=tDiYsWoBj2M) | 41:28 | - | - | - |
+| 51 | [但以理書(一)](https://www.youtube.com/watch?v=cabJrRVBt7E) | 36:33 | - | - | - |
+| 52 | [但以理書(二)](https://www.youtube.com/watch?v=V2i-wttUcXE) | 39:53 | - | - | - |
+| 53 | [以斯帖記](https://www.youtube.com/watch?v=YpBGW86YsYA) | 38:33 | - | - | - |
+| 54 | [以斯拉記和尼希米記(一)](https://www.youtube.com/watch?v=9544sNFMFvc) | 33:53 | - | - | - |
+| 55 | [以斯拉記和尼希米記(二)](https://www.youtube.com/watch?v=u3q5lSAwsSI) | 31:27 | - | - | - |
 | 56 | [哈該書](https://www.youtube.com/watch?v=Elaivs_ArAo) | 33:18 | - | - | - |
 | 57 | [撒迦利亞書(一)](https://www.youtube.com/watch?v=aThMU_IBQbw) | 44:13 | - | - | - |
 | 58 | [撒迦利亞書(二)](https://www.youtube.com/watch?v=i8ll33d2Tmg) | 44:28 | - | - | - |
@@ -87,17 +87,18 @@
 
 | 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期 | 觀賞時間 | 記錄 |
 |:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| 1 | [馬可福音](https://www.youtube.com/watch?v=aQhDy7mMnL0) | 46:03 | - | - | - |
-| 2 | [馬太福音(一)](https://www.youtube.com/watch?v=mbNZAzDSWbo) | 36:48 | - | - | - |
-| 3 | [馬太福音(二)](https://www.youtube.com/watch?v=GVKvE77O04U) | 40:53 | - | - | - |
+| 1 | [馬太福音(一)](https://www.youtube.com/watch?v=mbNZAzDSWbo) | 36:48 | - | - | - |
+| 2 | [馬太福音(二)](https://www.youtube.com/watch?v=GVKvE77O04U) | 40:53 | - | - | - |
+| 3 | [馬可福音](https://www.youtube.com/watch?v=aQhDy7mMnL0) | 46:03 | - | - | - |
 | 4 | [路加福音](https://www.youtube.com/watch?v=h3jCFdngMvA) | 40:13 | - | - | - |
-| 5 | [使徒行傳(一)](https://www.youtube.com/watch?v=fbTT9dF0neY) | 40:23 | - | - | - |
-| 6 | [使徒行傳(二)](https://www.youtube.com/watch?v=A6sbvSYMRcI) | 40:18 | - | - | - |
-| 7 | [約翰(一)](https://www.youtube.com/watch?v=FAhddBtQH9w) | 37:33 | - | - | - |
-| 8 | [約翰(二)](https://www.youtube.com/watch?v=Q_yb2YbIDmE) | 40:03 | - | - | - |
+| 5 | [約翰福音(一)](https://www.youtube.com/watch?v=FAhddBtQH9w) | 37:33 | - | - | - |
+| 6 | [約翰福音(二)](https://www.youtube.com/watch?v=Q_yb2YbIDmE) | 40:03 | - | - | - |
+| 7 | [使徒行傳(一)](https://www.youtube.com/watch?v=fbTT9dF0neY) | 40:23 | - | - | - |
+| 8 | [使徒行傳(二)](https://www.youtube.com/watch?v=A6sbvSYMRcI) | 40:18 | - | - | - |
 | 9 | [保羅及保羅書信](https://www.youtube.com/watch?v=ge9w2JgX5kE) | 55:54 | - | - | - |
 | 10 | [帖撒羅尼迦前後書(一)](https://www.youtube.com/watch?v=DTTQOxAHxyQ) | 39:32 | - | - | - |
 | 11 | [帖撒羅尼迦前後書(二)](https://www.youtube.com/watch?v=qKgMyQL4s8o) | 39:08 | - | - | - |
+| - | - | - | - | - | - |
 | 12 | [哥林多前後書(一)](https://www.youtube.com/watch?v=CWP2l9PxWN0) | 38:53 | - | - | - |
 | 13 | [哥林多前後書(二)](https://www.youtube.com/watch?v=it0Q4IREVpw) | 36:38 | - | - | - |
 | 14 | [加拉太書(一)](https://www.youtube.com/watch?v=-fotXlz3T54) |  44:13| - | - | - |
@@ -108,6 +109,7 @@
 | 19 | [以弗所書](https://www.youtube.com/watch?v=b1vUmhxDUBg) & 預定論 (27:58-40:53)| 40:53 | - | - | - |
 | 20 | [腓立比書&腓利門書(一)](https://www.youtube.com/watch?v=HXs1ZFGbbik) | 42:38 | - | - | - |
 | 21 | [腓立比書&腓利門書(二)](https://www.youtube.com/watch?v=rJ76IPBMrmY) | 36:08 | - | - | - |
+| - | - | - | - | - | - |
 | 22 | [提摩太前後書&提多書(一)](https://www.youtube.com/watch?v=GFMCaItZBJA) | 40:03 | - | - | - |
 | 23 | [提摩太前後書&提多書(二)](https://www.youtube.com/watch?v=5T1GIaI4Z4Y) | 38:23 | - | - | - |
 | 24 | [希伯來書(一)](https://www.youtube.com/watch?v=izDPy8eyCRY) | 42:08 | - | - | - |
@@ -118,6 +120,7 @@
 | 29 | [彼得前後書(二)](https://www.youtube.com/watch?v=d6P9ta47HFw) | 39:43 | - | - | - |
 | 30 | [約翰一二三書(一)](https://www.youtube.com/watch?v=zdCcEemgM9k) | 40:43 | - | - | - |
 | 31 | [約翰一二三書(二)](https://www.youtube.com/watch?v=o2vDoUNlemw) | 36:23 | - | - | - |
+| - | - | - | - | - | - |
 | 32 | [猶大書](https://www.youtube.com/watch?v=8uE7HmpCoQg) | 39:38 |- | - | - |
 | 33 | [啟示錄(一) 啟示錄之謎](https://www.youtube.com/watch?v=5FKwCU4pxeI) | 37:38 | - | - | - |
 | 34 | [啟示錄(二) 升天的主](https://www.youtube.com/watch?v=umhIBr1HY5g) | 40:58 | - | - | - |
