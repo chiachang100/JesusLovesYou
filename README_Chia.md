@@ -130,7 +130,7 @@
 | 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期(中文) | 個別主題(英文) | 觀賞日期(英文) |
 |:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | I | **歷史樞紐** | - | - | **THE HINGE OF HISTORY** | - |
-| 1 | [2. 馬可福音](https://www.youtube.com/watch?v=aQhDy7mMnL0) | 46:03 | 1/8/2022 | [Mark](https://www.youtube.com/watch?v=XJVVDqQx3w0) | 6/24/2021 |
+| 1 | [2. 馬可福音](https://www.youtube.com/watch?v=aQhDy7mMnL0) | 46:03 | 1/8/2022, 2/7/2023 | [Mark](https://www.youtube.com/watch?v=XJVVDqQx3w0) | 6/24/2021 |
 | 2 | [3. 馬太福音(一)](https://www.youtube.com/watch?v=mbNZAzDSWbo) | 36:48 | 1/8/2022, 1/21/2023 | [Matthew 1](https://www.youtube.com/watch?v=F2KMYwBRngU) | 6/24/2021 |
 | 3 | [3. 馬太福音(二)](https://www.youtube.com/watch?v=GVKvE77O04U) | 40:53 | 1/8/2022, 1/27/2023 | [Matthew 2](https://www.youtube.com/watch?v=DmY9AHaOMEI) | 6/24/2021 |
 | 4 | [4.&5. 路加福音](https://www.youtube.com/watch?v=h3jCFdngMvA) | 40:13 | 1/8/2022 | [Luke](https://www.youtube.com/watch?v=miPvZcX811M) | 6/24/2021 |
