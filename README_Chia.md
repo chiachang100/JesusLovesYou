@@ -130,8 +130,8 @@
 | 3 | [馬可福音](https://www.youtube.com/watch?v=aQhDy7mMnL0) | 46:03 | 1/8/2022, 2/7/2023 | [Mark](https://www.youtube.com/watch?v=XJVVDqQx3w0) | 6/24/2021 |
 | 4 | [路加福音](https://www.youtube.com/watch?v=h3jCFdngMvA) | 40:13 | 1/8/2022, 2/12/2023 | [Luke](https://www.youtube.com/watch?v=miPvZcX811M) | 6/24/2021 |
 | 5 | [約翰(一)](https://www.youtube.com/watch?v=FAhddBtQH9w) | 37:33 | 1/8/2022, 2/12/2023 | [John 1](https://www.youtube.com/watch?v=XFXTBYMFrYI) | 6/24/2021 |
-| 6 | [約翰(二)](https://www.youtube.com/watch?v=Q_yb2YbIDmE) | 40:03 | 1/8/2022 | [John 2](https://www.youtube.com/watch?v=WCyTlWUthw4) | 6/24/2021 |
-| 7 | [使徒行傳(一)](https://www.youtube.com/watch?v=fbTT9dF0neY) | 40:23 | 1/9/2022 | [Acts 1](https://www.youtube.com/watch?v=2Z-Hwn_OEpo) | 6/24/2021 |
+| 6 | [約翰(二)](https://www.youtube.com/watch?v=Q_yb2YbIDmE) | 40:03 | 1/8/2022, 2/12/2023 | [John 2](https://www.youtube.com/watch?v=WCyTlWUthw4) | 6/24/2021 |
+| 7 | [使徒行傳(一)](https://www.youtube.com/watch?v=fbTT9dF0neY) | 40:23 | 1/9/2022, 2/13/2023 | [Acts 1](https://www.youtube.com/watch?v=2Z-Hwn_OEpo) | 6/24/2021 |
 | 8 | [使徒行傳(二)](https://www.youtube.com/watch?v=A6sbvSYMRcI) | 40:18 | 1/9/2022 | [Acts 2](https://www.youtube.com/watch?v=HZm6pk8cGZA) | 6/24/2021 |
 | 9 | [保羅及保羅書信](https://www.youtube.com/watch?v=ge9w2JgX5kE) | 55:54 | 3/11/2022 | [Paul and his Letters](https://www.youtube.com/watch?v=7MrTchWaSb8) | 7/14/2021 |
 | 10 | [帖撒羅尼迦前後書(一)](https://www.youtube.com/watch?v=DTTQOxAHxyQ) | 39:32 | 3/11/2022 | [1 & 2 Thessalonians 1](https://www.youtube.com/watch?v=Q9TObF2wTCQ) | 7/4/2021 |
