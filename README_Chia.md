@@ -139,8 +139,8 @@
 | 11 | [帖撒羅尼迦前後書(二)](https://www.youtube.com/watch?v=qKgMyQL4s8o) | 39:08 | 3/11/2022, 2/16/2023 | [1 & 2 Thessalonians 2](https://www.youtube.com/watch?v=zcPZWRPdsrQ) | 7/4/2021 |
 | 12 | [哥林多前後書(一)](https://www.youtube.com/watch?v=CWP2l9PxWN0) | 38:53 | 1/9/2022, 2/18/2023 | [1 & 2 Corinthians 1](https://www.youtube.com/watch?v=EyVF6rrQAPE) | 6/26/2021 |
 | 13 | [哥林多前後書(二)](https://www.youtube.com/watch?v=it0Q4IREVpw) | 36:38 | 2/9/2022, 2/18/2023 | [1 & 2 Corinthians 2](https://www.youtube.com/watch?v=iis8b_nCYyE) | 6/26/2021 |
-| 14 | [加拉太書(一)](https://www.youtube.com/watch?v=-fotXlz3T54) |  44:13| 2/10/2022 | [Galatians 1](https://www.youtube.com/watch?v=dCPYlU_XAfI) | 6/26/2021 |
-| 15 | [加拉太書(二)](https://www.youtube.com/watch?v=RTNpTwXHmsk) | 37:03 | 2/12/2022 | [Galatians 2](https://www.youtube.com/watch?v=wlAcBE-3BlQ) | 6/27/2021 |
+| 14 | [加拉太書(一)](https://www.youtube.com/watch?v=-fotXlz3T54) |  44:13| 2/10/2022, 2/21/2023 | [Galatians 1](https://www.youtube.com/watch?v=dCPYlU_XAfI) | 6/26/2021 |
+| 15 | [加拉太書(二)](https://www.youtube.com/watch?v=RTNpTwXHmsk) | 37:03 | 2/12/2022, 2/22/2023 | [Galatians 2](https://www.youtube.com/watch?v=wlAcBE-3BlQ) | 6/27/2021 |
 | 16 | [羅馬書(一)](https://www.youtube.com/watch?v=Z19mdGQEdEc) | 37:38 | 1/9/2022 | [Romans 1](https://www.youtube.com/watch?v=OpXQbCnMWgA) | 6/24/2021 |
 | 17 | [羅馬書(二)](https://www.youtube.com/watch?v=6fIsZbZPKP8) | 40:38 | 1/9/2022 | [Romans 2](https://www.youtube.com/watch?v=TiCXzATXLmo) | 6/25/2021 |
 | 18 | [歌羅西書](https://www.youtube.com/watch?v=RvBCaefXOyM) | 40:58 | 3/12/2022 | [Colossians](https://www.youtube.com/watch?v=2XCX__pCeOI) | 6/28/2021 |
