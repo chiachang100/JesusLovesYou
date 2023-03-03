@@ -147,7 +147,7 @@
 | 19 | [以弗所書](https://www.youtube.com/watch?v=b1vUmhxDUBg) & 預定論 (27:58-40:53)| 40:53 | 3/13/2022, 2/22/2023 | [Ephesians](https://www.youtube.com/watch?v=lq7mT9Vo9Ls) & PREDESTINATION: (27:58-40:53) | 6/27/2021 |
 | 20 | [腓立比書&腓利門書(一)](https://www.youtube.com/watch?v=HXs1ZFGbbik) | 42:38 | 3/14/2022, 3/2/2023 | [Philippians & Philemon 1](https://www.youtube.com/watch?v=OEMr3lNzMDs) | 6/28/2021 |
 | - | - | - | - | - | - |
-| 21 | [腓立比書&腓利門書(二)](https://www.youtube.com/watch?v=rJ76IPBMrmY) | 36:08 | 3/15/2022 | [Philippians & Philemon 2](https://www.youtube.com/watch?v=uj6VvtIQBIU) | 6/28/2021 |
+| 21 | [腓立比書&腓利門書(二)](https://www.youtube.com/watch?v=rJ76IPBMrmY) | 36:08 | 3/15/2022, 3/3/2023 | [Philippians & Philemon 2](https://www.youtube.com/watch?v=uj6VvtIQBIU) | 6/28/2021 |
 | 22 | [提摩太前後書&提多書(一)](https://www.youtube.com/watch?v=GFMCaItZBJA) | 40:03 | 3/15/2022, 2/13/2023 | [Timothy & Titus 1](https://www.youtube.com/watch?v=0j0ovlLp4SU) | 7/5/2021 |
 | 23 | [提摩太前後書&提多書(二)](https://www.youtube.com/watch?v=5T1GIaI4Z4Y) | 38:23 | 3/15/2022, 2/13/2023 | [Timothy & Titus 2](https://www.youtube.com/watch?v=iljyisQNcVM) | 7/5/2021 |
 | 24 | [希伯來書(一)](https://www.youtube.com/watch?v=izDPy8eyCRY) | 42:08 | 3/16/2022 | [Hebrews 1](https://www.youtube.com/watch?v=kmUXH0_rQuQ) | 7/5/2021 |
