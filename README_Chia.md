@@ -60,7 +60,6 @@
 | 8 | [出埃及記(一)](https://www.youtube.com/watch?v=jlHOgXhkEMo) | 40:13 | 2/5/2022 | [Exodus 1](https://www.youtube.com/watch?v=S5cEpDlOP9A) | 8/13/2021 |
 | 9 | [出埃及記(二)](https://www.youtube.com/watch?v=1N5OFuFiULc) | 40:23 | 2/5/2022 | [Exodus 2](https://www.youtube.com/watch?v=jiNKP3GlPi4) | 8/14/2021 |
 | 10 | [利未記(一)](https://www.youtube.com/watch?v=-BaVKUjYPdI) | 39:43 | 2/6/2022 | [Leviticus 1](https://www.youtube.com/watch?v=R4QFF-56NAY) | 8/14/2021 |
-| - | - | - | - | - | - |
 | 11 | [利未記(二)](https://www.youtube.com/watch?v=MYTuWVe4RBI) | 35:33 | 2/6/2022 | [Leviticus 2](https://www.youtube.com/watch?v=HhZcDGo0AJc) | 8/14/2021 |
 | 12 | [民數記(一)](https://www.youtube.com/watch?v=ANWKSkvFhLE) | 36:58 | 2/7/2022 | [Numbers 1](https://www.youtube.com/watch?v=e3jOEfaSV1A) | 8/14/2021 |
 | 13 | [民數記(二)](https://www.youtube.com/watch?v=7og8ry-LfU0) | 41:33 | 2/8/2022 | [Numbers 2](https://www.youtube.com/watch?v=0L-qZWuTbR8) | 8/14/2021 |
@@ -71,7 +70,6 @@
 | 18 | [士師記和路得記(一)](https://www.youtube.com/watch?v=Nv9rAoOdRDg) | 44:13 | 2/11/2022 | [Judges and Ruth 1](https://www.youtube.com/watch?v=iF-UsFYX1XM) | 8/16/2021 |
 | 19 | [士師記和路得記(二)](https://www.youtube.com/watch?v=eVjbrgGBzCI) | 37:13 |  2/12/2022 | [Judges and Ruth 2](https://www.youtube.com/watch?v=WHGbkXiN5Mk) | 8/16/2021 |
 | 20 | [撒母耳記上下(一)](https://www.youtube.com/watch?v=QO6IzSoowFQ) | 40:18 | 2/13/2022 | [1 & 2 Samuel 1](https://www.youtube.com/watch?v=V-gozmcy3PM) | 8/16/2021 |
-| - | - | - | - | - | - |
 | 21 | [撒母耳記上下(二)](https://www.youtube.com/watch?v=Kws-E0Pf-m0) | 37:38 | 2/14/2022 | [1 & 2 Samuel 2](https://www.youtube.com/watch?v=ULLioZwvdEU) | 8/16/2021 |
 | 22 | [列王紀上下(一)](https://www.youtube.com/watch?v=wixHQA0lfkU) | 37:28 | 2/15/2022 | [1 & 2 Kings 1](https://www.youtube.com/watch?v=tjfEgekLD5s) | 8/17/2021 |
 | 23 | [列王紀上下(二)](https://www.youtube.com/watch?v=sfA_bH8FO8Q) | 39:13 | 2/16/2022 | [1 & 2 Kings 2](https://www.youtube.com/watch?v=kkj7q9vI3Zs) | 8/17/2021 |
@@ -82,7 +80,6 @@
 | 28 | [約伯記(一)](https://www.youtube.com/watch?v=UGaSYXN1sNQ) | 41:23 | 2/20/2022 | [Job 1](https://www.youtube.com/watch?v=mBSKwuVUOfs) | 8/18/2021 |
 | 29 | [約伯記(二)](https://www.youtube.com/watch?v=KiLBSOPrInA) | 41:38 | 2/20/2022 | [Job 2](https://www.youtube.com/watch?v=XWcWYdo7hXA) | 8/18/2021 |
 | 30 | [箴言(一)](https://www.youtube.com/watch?v=p4Zn9wZza4k) | 37:33 | 2/24/2022 | [Proverbs 1](https://www.youtube.com/watch?v=O3rct6R2AA8) | 8/19/2021 |
-| - | - | - | - | - | - |
 | 31 | [箴言(二)](https://www.youtube.com/watch?v=6PbDZWcUBbY) | 32:53 | 2/24/2022 | [Proverbs 2](https://www.youtube.com/watch?v=cj7XMIatkgc) | 8/19/2021 |
 | 32 | [雅歌](https://www.youtube.com/watch?v=S_uSerwYiFY) | 38:33 | 2/23/2022 | [Song of Songs](https://www.youtube.com/watch?v=YYtZ-gkQtFI) | 8/19/2021 |
 | 33 | [傳道書](https://www.youtube.com/watch?v=E4S-EcD1BgA) | 39:23 | 2/24/2022 | [Ecclesiastes](https://www.youtube.com/watch?v=mExfn1kAxLE) | 8/19/2021 |
@@ -93,7 +90,6 @@
 | 38 | [阿摩司書](https://www.youtube.com/watch?v=ykN2_IMHyXs) | 39:43 | 2/28/2022 | [Amos](https://www.youtube.com/watch?v=9F_OBKkgj54) | 8/21/2021 |
 | 39 | [何西阿書](https://www.youtube.com/watch?v=VSreYRKicjY) | 34:28 | 3/1/2022 | [Hosea](https://www.youtube.com/watch?v=S68kXnzI3xA) | 8/20/2021 |
 | 40 | [彌迦書](https://www.youtube.com/watch?v=olDmFPcHs6I) | 37:58 | 3/3/2022 | [Micah](https://www.youtube.com/watch?v=qhsA1DoYqBw) | 8/21/2021 |
-| - | - | - | - | - | - |
 | 41 | [以賽亞書(一)](https://www.youtube.com/watch?v=1OerxbbwWNU) | 41:33 | 3/1/2022 | [Isaiah 1](https://www.youtube.com/watch?v=XqNzGrYbFWg) | 8/19/2021 |
 | 42 | [以賽亞書(二)](https://www.youtube.com/watch?v=rNX6qcgZGDo) | 35:18 | 3/2/2022 | [Isaiah 2](https://www.youtube.com/watch?v=1VLLZ_6ZjiE) | 8/19/2021 |
 | 43 | [西番雅書](https://www.youtube.com/watch?v=ifDRcEKNhTk) | 40:23 | 3/4/2022 | [Zephaniah](https://www.youtube.com/watch?v=S_NEUA55I_U) | 8/21/2021 |
@@ -104,7 +100,6 @@
 | 48 | [以西結書(一)](https://www.youtube.com/watch?v=0495AQXT6pc) | 35:28 | 3/6/2022 | [Ezekiel 1](https://www.youtube.com/watch?v=xTzc8FoA4i0) | 8/19/2021 |
 | 49 | [以西結書(二)](https://www.youtube.com/watch?v=LNcuunNZoyQ) | 40:08 | 3/6/2022 | [Ezekiel 2](https://www.youtube.com/watch?v=kciYe1lIYvs) | 8/19/2021 |
 | 50 | [以西結書(三)](https://www.youtube.com/watch?v=Cv675u4y8Wc) | 39:28 | 3/6/2022 | [Ezekiel 3](https://www.youtube.com/watch?v=Q7oE5xET8P8) | 8/19/2021 |
-| - | - | - | - | - | - |
 | 51 | [但以理書(一)](https://www.youtube.com/watch?v=cabJrRVBt7E) | 36:33 | 3/6/2022 | [Daniel 1](https://www.youtube.com/watch?v=Rln-zNby09U) | 8/20/2021 |
 | 52 | [但以理書(二)](https://www.youtube.com/watch?v=V2i-wttUcXE) | 39:53 | 3/7/2022 | [Daniel 2](https://www.youtube.com/watch?v=jMHt0qjS6OI) | 8/20/2021 |
 | 53 | [以斯帖記](https://www.youtube.com/watch?v=YpBGW86YsYA) | 38:33 | 2/19/2022 | [Esther](https://www.youtube.com/watch?v=_skPXjv4XZY) | 8/18/2021 |
@@ -135,7 +130,6 @@
 | 8 | [使徒行傳(二)](https://www.youtube.com/watch?v=A6sbvSYMRcI) | 40:18 | 1/9/2022, 2/15/2023 | [Acts 2](https://www.youtube.com/watch?v=HZm6pk8cGZA) | 6/24/2021 |
 | 9 | [保羅及保羅書信](https://www.youtube.com/watch?v=ge9w2JgX5kE) | 55:54 | 3/11/2022, 2/15/2023 | [Paul and his Letters](https://www.youtube.com/watch?v=7MrTchWaSb8) | 7/14/2021 |
 | 10 | [帖撒羅尼迦前後書(一)](https://www.youtube.com/watch?v=DTTQOxAHxyQ) | 39:32 | 3/11/2022, 2/15/2023 | [1 & 2 Thessalonians 1](https://www.youtube.com/watch?v=Q9TObF2wTCQ) | 7/4/2021 |
-| - | - | - | - | - | - |
 | 11 | [帖撒羅尼迦前後書(二)](https://www.youtube.com/watch?v=qKgMyQL4s8o) | 39:08 | 3/11/2022, 2/16/2023 | [1 & 2 Thessalonians 2](https://www.youtube.com/watch?v=zcPZWRPdsrQ) | 7/4/2021 |
 | 12 | [哥林多前後書(一)](https://www.youtube.com/watch?v=CWP2l9PxWN0) | 38:53 | 1/9/2022, 2/18/2023 | [1 & 2 Corinthians 1](https://www.youtube.com/watch?v=EyVF6rrQAPE) | 6/26/2021 |
 | 13 | [哥林多前後書(二)](https://www.youtube.com/watch?v=it0Q4IREVpw) | 36:38 | 2/9/2022, 2/18/2023 | [1 & 2 Corinthians 2](https://www.youtube.com/watch?v=iis8b_nCYyE) | 6/26/2021 |
@@ -146,7 +140,6 @@
 | 18 | [歌羅西書](https://www.youtube.com/watch?v=RvBCaefXOyM) | 40:58 | 3/12/2022, 2/22/2023 | [Colossians](https://www.youtube.com/watch?v=2XCX__pCeOI) | 6/28/2021 |
 | 19 | [以弗所書](https://www.youtube.com/watch?v=b1vUmhxDUBg) & 預定論 (27:58-40:53)| 40:53 | 3/13/2022, 2/22/2023 | [Ephesians](https://www.youtube.com/watch?v=lq7mT9Vo9Ls) & PREDESTINATION: (27:58-40:53) | 6/27/2021 |
 | 20 | [腓立比書&腓利門書(一)](https://www.youtube.com/watch?v=HXs1ZFGbbik) | 42:38 | 3/14/2022, 3/2/2023 | [Philippians & Philemon 1](https://www.youtube.com/watch?v=OEMr3lNzMDs) | 6/28/2021 |
-| - | - | - | - | - | - |
 | 21 | [腓立比書&腓利門書(二)](https://www.youtube.com/watch?v=rJ76IPBMrmY) | 36:08 | 3/15/2022, 3/3/2023 | [Philippians & Philemon 2](https://www.youtube.com/watch?v=uj6VvtIQBIU) | 6/28/2021 |
 | 22 | [提摩太前後書&提多書(一)](https://www.youtube.com/watch?v=GFMCaItZBJA) | 40:03 | 3/15/2022, 2/13/2023 | [Timothy & Titus 1](https://www.youtube.com/watch?v=0j0ovlLp4SU) | 7/5/2021 |
 | 23 | [提摩太前後書&提多書(二)](https://www.youtube.com/watch?v=5T1GIaI4Z4Y) | 38:23 | 3/15/2022, 2/13/2023 | [Timothy & Titus 2](https://www.youtube.com/watch?v=iljyisQNcVM) | 7/5/2021 |
@@ -157,7 +150,6 @@
 | 28 | [彼得前後書(一)](https://www.youtube.com/watch?v=ki-ZtfPge98) | 38:33 | 3/19/2022 | [1 & 2 Peter 1](https://www.youtube.com/watch?v=d8dBDPa9uvQ) | 7/14/2021 |
 | 29 | [彼得前後書(二)](https://www.youtube.com/watch?v=d6P9ta47HFw) | 39:43 | 3/20/2022 | [1 & 2 Peter 2](https://www.youtube.com/watch?v=qJyTe0NZNVY) | 7/14/2021 |
 | 30 | [約翰一二三書(一)](https://www.youtube.com/watch?v=zdCcEemgM9k) | 40:43 | 3/21/2022 | [Letters of John 1](https://www.youtube.com/watch?v=5jPlZjNwZhM) | 7/14/2021 |
-| - | - | - | - | - | - |
 | 31 | 約翰一二三書(二)](https://www.youtube.com/watch?v=o2vDoUNlemw) | 36:23 | 3/21/2022 | [Letters of John 2](https://www.youtube.com/watch?v=PtNC9c4jTBM) | 7/19/2021|
 | 32 | [猶大書](https://www.youtube.com/watch?v=8uE7HmpCoQg) | 39:38 | 3/20/2022 | [Jude](https://www.youtube.com/watch?v=5iyll9XfNKA) | 7/19/2021 |
 | 33 | [啟示錄(一) 啟示錄之謎](https://www.youtube.com/watch?v=5FKwCU4pxeI) | 37:38 | 3/22/2022 | [Revelation Talk 1 The Revelation Riddle](https://www.youtube.com/watch?v=nX0eQgmoouc) | 7/19/2021 |
