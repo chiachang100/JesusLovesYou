@@ -146,7 +146,7 @@
 | 24 | [希伯來書(一)](https://www.youtube.com/watch?v=izDPy8eyCRY) | 42:08 | 3/16/2022, 3/6/2023 | [Hebrews 1](https://www.youtube.com/watch?v=kmUXH0_rQuQ) | 7/5/2021 |
 | 25 | [希伯來書(二)](https://www.youtube.com/watch?v=jovJ_eFxF7k) | 39:48 | 3/16/2022, 3/8/2023 | [Hebrews 2](https://www.youtube.com/watch?v=NrW4pWjUzRQ) | 7/14/2021 |
 | 26 | [雅各書(一)](https://www.youtube.com/watch?v=19i03hKUwDo) | 37:33 | 3/17/2022, 3/12/2023 | [James 1](https://www.youtube.com/watch?v=hQjB5nttZLw) | 7/14/2021 |
-| 27 | [雅各書(二)](https://www.youtube.com/watch?v=mg25DDuL8Ig) | 38:48 | 3/19/2022 | [James 2](https://www.youtube.com/watch?v=AcMqdZ564rk) | 7/14/2021 |
+| 27 | [雅各書(二)](https://www.youtube.com/watch?v=mg25DDuL8Ig) | 38:48 | 3/19/2022, 3/14/2023 | [James 2](https://www.youtube.com/watch?v=AcMqdZ564rk) | 7/14/2021 |
 | 28 | [彼得前後書(一)](https://www.youtube.com/watch?v=ki-ZtfPge98) | 38:33 | 3/19/2022 | [1 & 2 Peter 1](https://www.youtube.com/watch?v=d8dBDPa9uvQ) | 7/14/2021 |
 | 29 | [彼得前後書(二)](https://www.youtube.com/watch?v=d6P9ta47HFw) | 39:43 | 3/20/2022 | [1 & 2 Peter 2](https://www.youtube.com/watch?v=qJyTe0NZNVY) | 7/14/2021 |
 | 30 | [約翰一二三書(一)](https://www.youtube.com/watch?v=zdCcEemgM9k) | 40:43 | 3/21/2022 | [Letters of John 1](https://www.youtube.com/watch?v=5jPlZjNwZhM) | 7/14/2021 |
