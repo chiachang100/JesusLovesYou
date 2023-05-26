@@ -51,12 +51,12 @@
 | 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期(中文) | 個別主題(英文) | 觀賞日期(英文) |
 |:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 1 | [舊約概論](https://www.youtube.com/watch?v=wi8b9jOYmK0) | 40:08 | 2/1/2022, 2/6/2023, 5/25/2023 | [Overview of the Old Testament](https://www.youtube.com/watch?v=3y7nN4TVX5Y) | 7/23/2021 |
-| 2 | [創世記(一) 聖經的基礎](https://www.youtube.com/watch?v=fizg-bxIjuY) | 40:03 | 2/2/2022 | [Genesis 1](https://www.youtube.com/watch?v=TdKe0NNHWmY) | 8/4/2021 |
-| 3 | [創世記(二) 造物主和受造物](https://www.youtube.com/watch?v=jHKK66iKTng) | 38:28 | 2/3/2022 | [Genesis 2](https://www.youtube.com/watch?v=3FQhzYaVk6k) | 8/4/2021 |
-| 4 | [創世記(三) 生物與進化](https://www.youtube.com/watch?v=Cn9Bdd8NBJU) | 44:08 | 2/3/2022 | [Genesis 3](https://www.youtube.com/watch?v=5DsSO1pM-fE) | 8/12/2021 |
-| 5 | [創世記(四) 從伊甸園到巴別塔](https://www.youtube.com/watch?v=Qrb-IILBckQ) | 40:23 | 2/3/2022 | [Genesis 4](https://www.youtube.com/watch?v=n2t1p7Zfm2s) | 8/12/2021 |
-| 6 | [創世記(五) 亞伯拉罕、以撒和雅各](https://www.youtube.com/watch?v=h8Vc62vDw7o) | 40:03 | 2/4/2022 | [Genesis 5](https://www.youtube.com/watch?v=K26US7y8TyQ) | 8/13/2021 |
-| 7 | [創世記(六) 約瑟和耶穌](https://www.youtube.com/watch?v=1uBub7OvYaY) | 36:48 | 2/4/2022 | [Genesis 6](https://www.youtube.com/watch?v=Xk7vBiRlzeA) | 8/13/2021 |
+| 2 | [創世記(一) 聖經的基礎](https://www.youtube.com/watch?v=fizg-bxIjuY) | 40:03 | 2/2/2022, 5/25/2023 | [Genesis 1](https://www.youtube.com/watch?v=TdKe0NNHWmY) | 8/4/2021 |
+| 3 | [創世記(二) 造物主和受造物](https://www.youtube.com/watch?v=jHKK66iKTng) | 38:28 | 2/3/2022, 5/25/2023 | [Genesis 2](https://www.youtube.com/watch?v=3FQhzYaVk6k) | 8/4/2021 |
+| 4 | [創世記(三) 生物與進化](https://www.youtube.com/watch?v=Cn9Bdd8NBJU) | 44:08 | 2/3/2022, 5/25/2023 | [Genesis 3](https://www.youtube.com/watch?v=5DsSO1pM-fE) | 8/12/2021 |
+| 5 | [創世記(四) 從伊甸園到巴別塔](https://www.youtube.com/watch?v=Qrb-IILBckQ) | 40:23 | 2/3/2022, 5/25/2023 | [Genesis 4](https://www.youtube.com/watch?v=n2t1p7Zfm2s) | 8/12/2021 |
+| 6 | [創世記(五) 亞伯拉罕、以撒和雅各](https://www.youtube.com/watch?v=h8Vc62vDw7o) | 40:03 | 2/4/2022, 5/25/2023 | [Genesis 5](https://www.youtube.com/watch?v=K26US7y8TyQ) | 8/13/2021 |
+| 7 | [創世記(六) 約瑟和耶穌](https://www.youtube.com/watch?v=1uBub7OvYaY) | 36:48 | 2/4/2022, 5/25/2023 | [Genesis 6](https://www.youtube.com/watch?v=Xk7vBiRlzeA) | 8/13/2021 |
 | 8 | [出埃及記(一)](https://www.youtube.com/watch?v=jlHOgXhkEMo) | 40:13 | 2/5/2022 | [Exodus 1](https://www.youtube.com/watch?v=S5cEpDlOP9A) | 8/13/2021 |
 | 9 | [出埃及記(二)](https://www.youtube.com/watch?v=1N5OFuFiULc) | 40:23 | 2/5/2022 | [Exodus 2](https://www.youtube.com/watch?v=jiNKP3GlPi4) | 8/14/2021 |
 | 10 | [利未記(一)](https://www.youtube.com/watch?v=-BaVKUjYPdI) | 39:43 | 2/6/2022 | [Leviticus 1](https://www.youtube.com/watch?v=R4QFF-56NAY) | 8/14/2021 |
