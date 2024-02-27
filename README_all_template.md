@@ -120,7 +120,7 @@
 
 | 順序 | 個別主題(中文) | 影片長度(分鐘) | 觀賞日期(中文) | 個別主題(英文) | 觀賞日期(英文) |
 |:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| 1 | [馬太福音(一)](https://www.youtube.com/watch?v=mbNZAzDSWbo) | 36:48 | 2/27/2024 | [Matthew 1](https://www.youtube.com/watch?v=F2KMYwBRngU) | 2/27/2024 |
+| 1 | [馬太福音(一)](https://www.youtube.com/watch?v=mbNZAzDSWbo) | 36:48 | | [Matthew 1](https://www.youtube.com/watch?v=F2KMYwBRngU) | |
 | 2 | [馬太福音(二)](https://www.youtube.com/watch?v=GVKvE77O04U) | 40:53 | | [Matthew 2](https://www.youtube.com/watch?v=DmY9AHaOMEI) | |
 | 3 | [馬可福音](https://www.youtube.com/watch?v=aQhDy7mMnL0) | 46:03 | | [Mark](https://www.youtube.com/watch?v=XJVVDqQx3w0) | |
 | 4 | [路加福音](https://www.youtube.com/watch?v=h3jCFdngMvA) | 40:13 |  | [Luke](https://www.youtube.com/watch?v=miPvZcX811M) | |
