@@ -40,25 +40,25 @@
 
 ---
 ## 聖經問題閱讀進行中 (圣经问题阅读进行中)
-| 顺序 | 圣经问题-简体中文版 | 资料来源 | 阅读日期 |
-|:----:|:-------------:|:----:|:---:|
-| 1 | [圣经上讲永生的保障了吗？](https://www.gotquestions.org/chinese/Chinese-Eternal-Security.html) | #1.3| |
-|  |  |  |  | 
+| 顺序 | 圣经问题-简体中文版 | 资料来源 | 阅读日期 | |
+|:----:|:-------------:|:----:|:----:|:----:|:---:|
+| 1 | **基督徒受洗有什么重要意义？** | [简体](https://www.gotquestions.org/chinese/Chinese-Christian-baptism.html) | [繁體](https://www.gotquestions.org/T-Chinese/T-Chinese-baptism-Christian.html) | #1.3 | |
+|  |  |  |  |  |
 
 <!--
-| 2 | [一次得救永远得救吗？](https://www.gotquestions.org/chinese/Chinese-Once-Saved-Always.html) | #1.3 |  | 
-| 3 | [基督徒受洗有什么重要意义？](https://www.gotquestions.org/chinese/Chinese-Christian-baptism.html) | #1.3 | |
-| 1 | []() | #1.3 | |
-| 1 | []() | #1.3 | |
-| 1 | []() | #1.3 | |
-| 1 | []() | #1.3 | |
-| 1 | []() | #1.3 | |
-| 1 | []() | #1.3 | |
-| 1 | []() | #1.3 | |
-| 1 | []() | #1.3 | |
-| 1 | []() | #1.3 | |
-| 1 | []() | #1.3 | |
-| 1 | []() | #1.3 | |
+| 2 | **一次得救永远得救吗？** | [简体](https://www.gotquestions.org/chinese/Chinese-Once-Saved-Always.html) | [繁體]() | #1.3 |  | 
+| 3 | **圣经上讲永生的保障了吗？** | [简体](https://www.gotquestions.org/chinese/Chinese-Eternal-Security.html) | [繁體](https://www.gotquestions.org/T-Chinese/T-Chinese-eternal-security.html) | #1.3 | |
+| 1 | [简体]() | [繁體]() |  | #1.3 | |
+| 1 | [简体]() | [繁體]() |  | #1.3 | |
+| 1 | [简体]() | [繁體]() |  | #1.3 | |
+| 1 | [简体]() | [繁體]() |  | #1.3 | |
+| 1 | [简体]() | [繁體]() |  | #1.3 | |
+| 1 | [简体]() | [繁體]() |  | #1.3 | |
+| 1 | [简体]() | [繁體]() |  | #1.3 | |
+| 1 | [简体]() | [繁體]() |  | #1.3 | |
+| 1 | [简体]() | [繁體]()) |  | #1.3 | |
+| 1 | [简体]() | [繁體]() |  | #1.3 | |
+| 1 | [简体]() | [繁體]() |  | #1.3 | |
 -->
 
 <!--
