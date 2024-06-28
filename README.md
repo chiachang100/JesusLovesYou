@@ -1,4 +1,4 @@
-# 我愛耶穌,耶穌愛我! (I Love Jesus And Jesus Loves Me Too!)
+# 耶穌愛我! (Jesus Loves Me)
 
 > **["新舊約縱覽：通往真理的金鑰" (Unlocking The Bible: Old and New Testament)](https://www.amazon.com/Unlocking-Bible-Unique-Overview-Whole/dp/1943852650/)** 一書的作者大衛鮑森(David Pawson)在書中鼓勵讀者說: "我希望這些聖經書卷的縱覽能幫助你更加認識神的話, 愛慕神的話, 但在這期待的背後還有更大更深的渴望, 就是你也能更認識, 更深愛所有書卷的主旨--神自己。 ... 當你展讀這套書時, 願你能和我一同說: 「讚美歸與聖父, 聖子和聖靈!」。
 
