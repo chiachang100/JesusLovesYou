@@ -129,9 +129,9 @@
 | 7 | [使徒行傳(一)](https://www.youtube.com/watch?v=fbTT9dF0neY) | 40:23 | 1/9/2022, 2/13/2023, 8/27/2026 | [Acts 1](https://www.youtube.com/watch?v=2Z-Hwn_OEpo) | 6/24/2021 |
 | 8 | [使徒行傳(二)](https://www.youtube.com/watch?v=A6sbvSYMRcI) | 40:18 | 1/9/2022, 2/15/2023, 8/27/2026 | [Acts 2](https://www.youtube.com/watch?v=HZm6pk8cGZA) | 6/24/2021 |
 | 9 | [保羅及保羅書信](https://www.youtube.com/watch?v=ge9w2JgX5kE) | 55:54 | 3/11/2022, 2/15/2023, 9/15/2026 | [Paul and his Letters](https://www.youtube.com/watch?v=7MrTchWaSb8) | 7/14/2021 |
-| 10 | [帖撒羅尼迦前後書(一)](https://www.youtube.com/watch?v=DTTQOxAHxyQ) | 39:32 | 3/11/2022, 2/15/2023 | [1 & 2 Thessalonians 1](https://www.youtube.com/watch?v=Q9TObF2wTCQ) | 7/4/2021 |
-| 11 | [帖撒羅尼迦前後書(二)](https://www.youtube.com/watch?v=qKgMyQL4s8o) | 39:08 | 3/11/2022, 2/16/2023 | [1 & 2 Thessalonians 2](https://www.youtube.com/watch?v=zcPZWRPdsrQ) | 7/4/2021 |
-| 12 | [哥林多前後書(一)](https://www.youtube.com/watch?v=CWP2l9PxWN0) | 38:53 | 1/9/2022, 2/18/2023 | [1 & 2 Corinthians 1](https://www.youtube.com/watch?v=EyVF6rrQAPE) | 6/26/2021 |
+| 10 | [帖撒羅尼迦前後書(一)](https://www.youtube.com/watch?v=DTTQOxAHxyQ) | 39:32 | 3/11/2022, 2/15/2023, 9/18/2026 | [1 & 2 Thessalonians 1](https://www.youtube.com/watch?v=Q9TObF2wTCQ) | 7/4/2021 |
+| 11 | [帖撒羅尼迦前後書(二)](https://www.youtube.com/watch?v=qKgMyQL4s8o) | 39:08 | 3/11/2022, 2/16/2023, 9/19/2026 | [1 & 2 Thessalonians 2](https://www.youtube.com/watch?v=zcPZWRPdsrQ) | 7/4/2021 |
+| 12 | [哥林多前後書(一)](https://www.youtube.com/watch?v=CWP2l9PxWN0) | 38:53 | 1/9/2022, 2/18/2023, 9/19/2026 | [1 & 2 Corinthians 1](https://www.youtube.com/watch?v=EyVF6rrQAPE) | 6/26/2021 |
 | 13 | [哥林多前後書(二)](https://www.youtube.com/watch?v=it0Q4IREVpw) | 36:38 | 2/9/2022, 2/18/2023 | [1 & 2 Corinthians 2](https://www.youtube.com/watch?v=iis8b_nCYyE) | 6/26/2021 |
 | 14 | [加拉太書(一)](https://www.youtube.com/watch?v=-fotXlz3T54) |  44:13| 2/10/2022, 2/21/2023 | [Galatians 1](https://www.youtube.com/watch?v=dCPYlU_XAfI) | 6/26/2021 |
 | 15 | [加拉太書(二)](https://www.youtube.com/watch?v=RTNpTwXHmsk) | 37:03 | 2/12/2022, 2/22/2023 | [Galatians 2](https://www.youtube.com/watch?v=wlAcBE-3BlQ) | 6/27/2021 |
